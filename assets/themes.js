@@ -2,7 +2,7 @@ import colors from 'vuetify/es5/util/colors';
 
 export default {
   light: {
-    primary: colors.blue.base,
+    primary: '#F18465',
     secondary: colors.grey.darken4,
     accent: colors.blue.lighten2,
     error: colors.deepOrange.base,
@@ -11,7 +11,7 @@ export default {
     success: colors.teal.base
   },
   dark: {
-    primary: colors.blue.darken3,
+    primary: '#F18465',
     secondary: colors.grey.darken4,
     accent: colors.lightBlue.darken4,
     error: colors.deepOrange.accent4,

@@ -306,7 +306,13 @@ export default {
         clearInterval(timer);
         timer = null;
       };
-      let audio = new Audio(this.voice_host + item.path);
+
+      let audioUrl = this.voice_host + item.path;
+      if (item.path.startsWith('https://')) {
+        audioUrl = item.path;
+      }
+
+      let audio = new Audio(audioUrl);
       audio.load(); //This could fix iOS playing bug
       if ('mediaSession' in navigator) {
         const metadata = {

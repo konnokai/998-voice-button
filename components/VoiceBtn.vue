@@ -28,7 +28,7 @@ export default {
   name: 'VoiceBtn',
   props: {
     emoji: {
-      default: '🐋',
+      default: '🍶',
       type: String
     },
     link: {
@@ -39,7 +39,7 @@ export default {
   data() {
     return {
       twe_para: {
-        base: 'https://twemoji.maxcdn.com/v/latest',
+        base: 'https://cdn.jsdelivr.net/npm/twemoji@12.0.2/2',
         folder: '/svg',
         ext: '.svg'
       },
@@ -82,11 +82,11 @@ $nonlinear-transition: cubic-bezier(0.25, 0.8, 0.5, 1);
 }
 
 .vo-btn-bg-light {
-  background: linear-gradient(to right, #0288d1 var(--start-percent), #6bb8f6 var(--progress));
+  background: linear-gradient(to right, #cb6256 var(--start-percent), #f18465 var(--progress));
 }
 
 .vo-btn-bg-dark {
-  background: linear-gradient(to right, #0288d1 var(--start-percent), #1362a1 var(--progress));
+  background: linear-gradient(to right, #cb6256 var(--start-percent), #f18465 var(--progress));
 }
 
 .vo-btn div {

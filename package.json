@@ -23,12 +23,13 @@
     "js-yaml-loader": "^1.2.2",
     "markdown-it-attrs": "^3.0.2",
     "markdown-it-div": "^1.1.0",
+    "node-gyp": "^10.2.0",
     "nuxt": "^2.14.3",
     "twemoji": "^13.0.1",
     "vue-i18n": "^8.17.4"
   },
   "devDependencies": {
-    "@nuxtjs/vuetify": "^1.0.0",
+    "@nuxtjs/vuetify": "^1.12.3",
     "axios": "^0.21.1",
     "babel-eslint": "^10.1.0",
     "chai": "^4.2.0",
@@ -47,5 +48,6 @@
     "mocha": "^8.0.1",
     "prettier": "^2.0.5",
     "selenium-webdriver": "^4.0.0-alpha.7"
-  }
+  },
+  "packageManager": "yarn@4.5.1"
 }

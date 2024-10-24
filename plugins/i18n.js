@@ -8,8 +8,6 @@ export default ({ app, store }) => {
     locale: store.state.locale,
     fallbackLocale: 'zh',
     messages: {
-      en: require('~/assets/locales/en.json'),
-      ja: require('~/assets/locales/ja.json'),
       zh: require('~/assets/locales/default.json')
     }
   });

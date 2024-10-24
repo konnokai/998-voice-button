@@ -73,29 +73,6 @@
         </template>
         <span>{{ $t('site.switch_dark_mode') }}</span>
       </v-tooltip>
-      <v-menu offset-y>
-        <template v-slot:activator="{ on: menu }">
-          <v-tooltip bottom>
-            <template v-slot:activator="{ on: tooltip }">
-              <v-btn icon class="white--text" v-on="{ ...tooltip, ...menu }">
-                <v-icon>{{ icons.translate }}</v-icon>
-              </v-btn>
-            </template>
-            <span>{{ $t('site.switch_language') }}</span>
-          </v-tooltip>
-        </template>
-        <v-list>
-          <v-list-item id="lang-switch-zh" @click="switch_lang('zh')">
-            <v-list-item-title>简体中文</v-list-item-title>
-          </v-list-item>
-          <v-list-item id="lang-switch-ja" @click="switch_lang('ja')">
-            <v-list-item-title>日本語</v-list-item-title>
-          </v-list-item>
-          <v-list-item id="lang-switch-en" @click="switch_lang('en')">
-            <v-list-item-title>English</v-list-item-title>
-          </v-list-item>
-        </v-list>
-      </v-menu>
     </v-app-bar>
     <v-main>
       <v-container class="page">
