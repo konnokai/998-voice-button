@@ -1,16 +1,455 @@
 {
   "groups": [
     {
-      "group_name": "misc",
+      "group_name": "566",
       "group_description": {
-        "zh": "雜項"
+        "zh": "烏拉拉"
       },
       "voice_list": [
         {
-          "name": "HA",
-          "path": "https://r2.konnokai.me/998-voice-button/a_ha.ogg",
+          "name": "566fanfan",
+          "path": "https://r2.konnokai.me/998-voice-button/566/566%E9%A3%AF%E9%A3%AF.mp3",
           "description": {
-            "zh": "HA"
+            "zh": "烏拉拉飯飯"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "headphone_recommand",
+      "group_description": {
+        "zh": "耳機推薦"
+      },
+      "voice_list": [
+        {
+          "name": "headphone_test",
+          "path": "https://r2.konnokai.me/998-voice-button/headphone_recommand/%E8%80%B3%E6%A9%9F%E6%B8%AC%E8%A9%A6_%E5%A5%BD%E4%BA%86%E5%97%8E.mp3",
+          "description": {
+            "zh": "好了嗎? 好了嗎?"
+          }
+        },
+        {
+          "name": "stupid_dog",
+          "path": "https://r2.konnokai.me/998-voice-button/headphone_recommand/%E4%BD%A0%E5%80%91%E9%80%99%E7%BE%A4%E5%B0%8F%E7%AC%A8%E7%8B%97.mp3",
+          "description": {
+            "zh": "你們這群小笨狗，害我好丟臉噢"
+          }
+        },
+        {
+          "name": "good_night",
+          "path": "https://r2.konnokai.me/998-voice-button/headphone_recommand/%E7%8E%96%E7%8E%96%E5%B7%B4%E5%93%84%E7%9D%A1ASMR.mp3",
+          "description": {
+            "zh": "一直很感謝，大家的支持，晚安安祝大家好夢"
+          }
+        },
+        {
+          "name": "stop_work_and_classes",
+          "path": "https://r2.konnokai.me/998-voice-button/headphone_recommand/%E6%98%8E%E5%A4%A9%E5%81%9C%E6%AD%A2%E4%B8%8A%E7%8F%AD%E4%B8%8A%E8%AA%B2%E5%99%A2.mp3",
+          "description": {
+            "zh": "明天，停止上班上課噢"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "misc_lyrics",
+      "group_description": {
+        "zh": "雜項台詞"
+      },
+      "voice_list": [
+        {
+          "name": "girls",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E4%BA%BA%E5%AE%B6%E6%98%AF%E5%A5%B3%E7%94%9F%E9%A4%92.mp3",
+          "description": {
+            "zh": "人家，人家是女生餒"
+          }
+        },
+        {
+          "name": "little_trash",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%B0%8F%E5%9E%83%E5%9C%BE.mp3",
+          "description": {
+            "zh": "小垃圾"
+          }
+        },
+        {
+          "name": "little_hentai",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%B0%8F%E8%AE%8A%E6%85%8B.mp3",
+          "description": {
+            "zh": "你想被罵甚麼阿? 想被罵甚麼阿，小變態"
+          }
+        },
+        {
+          "name": "eat_soil_dog",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%8E%BB%E5%90%83%E5%9C%9F%E5%90%A7_%E7%AC%A8%E7%8B%97.mp3",
+          "description": {
+            "zh": "你以為這樣子我就會說謝謝嗎? 去吃土吧，笨狗"
+          }
+        },
+        {
+          "name": "i_like_you",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E6%89%93%E7%9B%B4%E7%90%83%E6%98%AF%E7%94%9A%E9%BA%BC_%E6%88%91%E5%96%9C%E6%AD%A1%E4%BD%A0.mp3",
+          "description": {
+            "zh": "打直球是甚麼，我喜歡你"
+          }
+        },
+        {
+          "name": "eat_fan_fan",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%90%83%E9%A3%AF%E9%A3%AF_%E9%A3%AF%E9%A3%AF.mp3",
+          "description": {
+            "zh": "吃飯飯，飯飯"
+          }
+        },
+        {
+          "name": "lazy_waist_good_night",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E4%BC%B8%E6%87%B6%E8%85%B0_%E7%9D%A1%E8%A6%BA%E7%9A%84%E6%99%9A%E5%AE%89.mp3",
+          "description": {
+            "zh": "(伸懶腰)沒有，快滾，晚安晚安，睡覺的晚安"
+          }
+        },
+        {
+          "name": "hentai_dog",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E4%BD%A0%E9%80%99%E5%80%8B%E4%BA%BA%E5%B0%B1%E6%98%AF%E5%A5%BD%E8%89%B2.mp3",
+          "description": {
+            "zh": "肯定是你要求太多了，你這個人就是好色"
+          }
+        },
+        {
+          "name": "go_to_sleep",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%BF%AB%E7%B5%A6%E6%88%91%E6%BB%BE%E5%8E%BB%E7%9D%A1%E8%A6%BA.mp3",
+          "description": {
+            "zh": "哭噢，快給我滾去睡覺，不要在這邊五四三了，走開走開走開走開，滾! 還看甚麼看屁噢，亂七八糟神經病"
+          }
+        },
+        {
+          "name": "i_hate_this_intuitive_wife",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E6%88%91%E6%9C%80%E8%A8%8E%E5%8E%AD%E9%80%99%E7%A8%AE%E7%9B%B4%E8%A6%BA%E6%95%8F%E9%8A%B3%E7%9A%84%E8%80%81%E5%A9%86%E9%BE%8D.mp3",
+          "description": {
+            "zh": "我最討厭這種，直覺敏鋭的老婆龍"
+          }
+        },
+        {
+          "name": "i_want_to_think_lazy_waist",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E6%88%91%E6%83%B3%E4%B8%80%E4%B8%8B%28%E4%BC%B8%E6%87%B6%E8%85%B0%29.mp3",
+          "description": {
+            "zh": "我想一下(伸懶腰)"
+          }
+        },
+        {
+          "name": "mango_lagan",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E8%8A%92%E6%9E%9C%E5%95%A6%E6%B7%A6.mp3",
+          "description": {
+            "zh": "芒果啦淦"
+          }
+        },
+        {
+          "name": "no_door",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E9%96%80%E9%83%BD%E6%B2%92%E6%9C%89.mp3",
+          "description": {
+            "zh": "門都沒有"
+          }
+        },
+        {
+          "name": "hentai_lolicon",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%A4%89%E6%85%8B%E3%83%AD%E3%83%AA%E3%82%B3%E3%83%B3.mp3",
+          "description": {
+            "zh": "變態ロリコン"
+          }
+        },
+        {
+          "name": "why_havent_you_slept_yet",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E6%80%8E%E9%BA%BC%E9%82%84%E4%B8%8D%E7%9D%A1%E8%A6%BA_%E9%83%BD%E5%B9%BE%E9%BB%9E%E4%BA%86_%E6%BB%BE.mp3",
+          "description": {
+            "zh": "怎麼還不睡覺? 都幾點了? 滾!"
+          }
+        },
+        {
+          "name": "activate",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%95%9F%E5%8B%95.mp3",
+          "description": {
+            "zh": "啟動!"
+          }
+        },
+        {
+          "name": "good_night_good_dreams",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E6%99%9A%E5%AE%89_%E6%99%9A%E5%AE%89%E7%9A%84%E6%99%9A%E5%AE%89_%E7%A5%9D%E5%A5%BD%E5%A4%A2.mp3",
+          "description": {
+            "zh": "晚安，晚安的晚安，祝好夢"
+          }
+        },
+        {
+          "name": "sonla",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E7%88%BD%E5%95%A6.mp3",
+          "description": {
+            "zh": "欸不對 12 分了我可以回來了，爽啦!"
+          }
+        },
+        {
+          "name": "wants_black_silk_think_to_much",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E6%83%B3%E8%A6%81%E9%BB%91%E7%B5%B2%E5%97%8E_%E6%83%B3%E5%BE%97%E7%BE%8E.mp3",
+          "description": {
+            "zh": "想要黑絲嗎? 想得美!"
+          }
+        },
+        {
+          "name": "stomp_you_little_bastards",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E8%B8%A9%E6%AD%BB%E4%BD%A0%E5%80%91%E9%80%99%E7%BE%A4%E5%B0%8F%E7%8E%8B%E5%85%AB%E8%9B%8B.mp3",
+          "description": {
+            "zh": "踩死你們這群小王八蛋"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "mygo",
+      "group_description": {
+        "zh": "MyGo"
+      },
+      "voice_list": [
+        {
+          "name": "is_everything_in_your_brain_real",
+          "path": "https://r2.konnokai.me/998-voice-button/mygo/%E4%BD%A0%E7%8F%BE%E5%9C%A8%E8%85%A6%E8%A2%8B%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%97%8E_%E7%9C%9F%E7%9A%84%E5%97%8E.mp3",
+          "description": {
+            "zh": "你現在腦袋都是真的嗎，真的嗎?"
+          }
+        },
+        {
+          "name": "i_have_had_enough_of_you_guys_these_dogs",
+          "path": "https://r2.konnokai.me/998-voice-button/mygo/%E6%88%91%E5%B7%B2%E7%B6%93%E5%8F%97%E5%A4%A0%E4%BD%A0%E5%80%91%E9%80%99%E7%BE%A4%E7%8B%97%E7%8B%97%E4%BA%86_%E6%88%91%E5%8F%97GO%E4%BA%86.mp3",
+          "description": {
+            "zh": "我已經受夠你們這群狗狗了，我受 GO 了!"
+          }
+        },
+        {
+          "name": "i_never_felt_happier_about_a_drawing_before",
+          "path": "https://r2.konnokai.me/998-voice-button/mygo/%E6%88%91%E5%BE%9E%E4%BE%86%E9%83%BD%E4%B8%8D%E8%A6%BA%E5%BE%97%E7%95%AB%E5%9C%96%E9%96%8B%E5%BF%83%E9%81%8E.mp3",
+          "description": {
+            "zh": "我從來都不覺得畫圖開心過"
+          }
+        },
+        {
+          "name": "is_she_here_to_find_excuses_for_me",
+          "path": "https://r2.konnokai.me/998-voice-button/mygo/%E5%A6%B3%E6%98%AF%E4%BE%86%E6%89%BE%E6%88%91%E5%90%B5%E6%9E%B6%E7%9A%84%E5%97%8E.mp3",
+          "description": {
+            "zh": "妳是來找我吵架的嗎?"
+          }
+        },
+        {
+          "name": "how_is_it_again",
+          "path": "https://r2.konnokai.me/998-voice-button/mygo/%E6%98%AF%E5%8F%88%E6%80%8E%E6%A8%A3.mp3",
+          "description": {
+            "zh": "是又怎樣"
+          }
+        },
+        {
+          "name": "even_with_all_your_brains_you_only_think_about_yourself",
+          "path": "https://r2.konnokai.me/998-voice-button/mygo/%E6%BB%BF%E8%85%A6%E5%AD%90%E9%83%BD%E5%8F%AA%E6%9C%89%E6%83%B3%E5%88%B0%E8%87%AA%E5%B7%B1%E5%91%A2.mp3",
+          "description": {
+            "zh": "滿腦子都只有想到自己呢"
+          }
+        },
+        {
+          "name": "is_it_really_so_high",
+          "path": "https://r2.konnokai.me/998-voice-button/mygo/%E9%82%84%E7%9C%9F%E6%98%AF%E9%AB%98%E9%AB%98%E5%9C%A8%E4%B8%8A%E5%91%A2.mp3",
+          "description": {
+            "zh": "還真是高高在上呢"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "noise",
+      "group_description": {
+        "zh": "意義不明的音效"
+      },
+      "voice_list": [
+        {
+          "name": "huh",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/HUH.mp3",
+          "description": {
+            "zh": "HUH"
+          }
+        },
+        {
+          "name": "rrrrr",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/RRRRR.mp3",
+          "description": {
+            "zh": "阿 阿 阿 阿 呵"
+          }
+        },
+        {
+          "name": "rrrrrrr",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/RRRRRRR.mp3",
+          "description": {
+            "zh": "RRRRRRR"
+          }
+        },
+        {
+          "name": "wtfwtfwtf",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/WTFWTFWTF.mp3",
+          "description": {
+            "zh": "WTFWTFWTF"
+          }
+        },
+        {
+          "name": "tskr",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E6%89%93%E5%99%B4%E5%9A%8F.mp3",
+          "description": {
+            "zh": "打噴嚏"
+          }
+        },
+        {
+          "name": "iyaha",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E4%BC%8A%E5%91%80%E5%93%88.mp3",
+          "description": {
+            "zh": "伊呀哈~哈"
+          }
+        },
+        {
+          "name": "yaha",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E5%91%80%E5%93%88~~~~.mp3",
+          "description": {
+            "zh": "呀哈~~~~"
+          }
+        },
+        {
+          "name": "nyan",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E7%8E%96%E5%B7%B4%E5%96%B5.mp3",
+          "description": {
+            "zh": "玖巴喵"
+          }
+        },
+        {
+          "name": "motocycle",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E7%8E%96%E5%B7%B4%E7%89%8C%E6%A9%9F%E8%BB%8A.mp3",
+          "description": {
+            "zh": "玖巴牌機車"
+          }
+        },
+        {
+          "name": "rrrrnnn",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E6%8A%B1%E9%A0%AD%E7%8B%90%E4%BB%99%28%E5%8F%AB%E8%81%B2.mp3",
+          "description": {
+            "zh": "抱頭狐仙"
+          }
+        },
+        {
+          "name": "fox_say",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E7%8B%90%E7%8B%B8%E5%8F%AB.mp3",
+          "description": {
+            "zh": "狐狸叫"
+          }
+        },
+        {
+          "name": "wail",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E5%93%80%E8%99%9F.mp3",
+          "description": {
+            "zh": "哀號"
+          }
+        },
+        {
+          "name": "haha",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E5%93%88%E2%AD%A3%E5%93%88%E2%AD%A1.mp3",
+          "description": {
+            "zh": "哈⭣哈⭡"
+          }
+        },
+        {
+          "name": "usagi1",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E7%83%8F%E8%96%A9%E5%A5%87%28%E7%8E%96%E7%8E%96%E5%B7%B4Ver%29.mp3",
+          "description": {
+            "zh": "烏薩奇1"
+          }
+        },
+        {
+          "name": "usagi2",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E7%83%8F%E8%96%A9%E5%A5%87%28%E7%8E%96%E7%8E%96%E5%B7%B4Ver_2%29.mp3",
+          "description": {
+            "zh": "烏薩奇2"
+          }
+        },
+        {
+          "name": "forgot_password",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E5%95%8A%E6%88%91%E5%BF%98%E8%A8%98%E6%88%91%E7%9A%84%E5%AF%86%E7%A2%BCRRRR.mp3",
+          "description": {
+            "zh": "啊我忘記我的密碼RRRR"
+          }
+        },
+        {
+          "name": "a_ha",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E5%95%8A%E5%93%88.mp3",
+          "description": {
+            "zh": "啊哈"
+          }
+        },
+        {
+          "name": "e_he",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E6%AC%B8%E5%98%BF.mp3",
+          "description": {
+            "zh": "欸嘿"
+          }
+        },
+        {
+          "name": "fan_fan",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E9%A3%AF%E9%A3%AF.mp3",
+          "description": {
+            "zh": "飯飯"
+          }
+        },
+        {
+          "name": "unknown",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E6%84%8F%E7%BE%A9%E4%B8%8D%E6%98%8E%E7%9A%84%E5%8F%AB%E8%81%B2.mp3",
+          "description": {
+            "zh": "意義不明的叫聲"
+          }
+        },
+        {
+          "name": "aowu",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E5%97%B7%E5%97%9A~%E5%97%B7%E5%97%9A~.mp3",
+          "description": {
+            "zh": "嗷嗚~嗷嗚~"
+          }
+        },
+        {
+          "name": "pulu",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%E5%99%97%E5%9A%95~%E5%99%97%E5%9A%95~%E5%99%97%E5%9A%95~.mp3",
+          "description": {
+            "zh": "噗嚕~噗嚕~噗嚕~~"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "song_lyrics",
+      "group_description": {
+        "zh": "歌曲台詞"
+      },
+      "voice_list": [
+        {
+          "name": "i_want_you_to_love_little_love_eggs",
+          "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/%28%E6%88%91%E8%A6%81%E4%BD%A0%E6%84%9B%29%E6%84%9B%E6%83%85%E7%9A%84%E5%B0%8F%E5%A3%9E%E8%9B%8B.mp3",
+          "description": {
+            "zh": "(我要你愛)你說你愛我自信中帶有瘋狂的火焰，時而羞怯的迷人臉龐，不 那不是我，我只是個愛情的騙徒，是愛情的小壞蛋"
+          }
+        },
+        {
+          "name": "9989898_tiger_vision",
+          "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/9989898%E8%99%8E%E8%A6%96%E7%9C%88%E7%9C%88.mp3",
+          "description": {
+            "zh": "9989898 虎視眈眈，9989898 虎視眈眈"
+          }
+        },
+        {
+          "name": "Mogu",
+          "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/mogu.mp3",
+          "description": {
+            "zh": "Mogu"
+          }
+        },
+        {
+          "name": "miss_its_time_to_go_to_bed",
+          "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/%E3%81%8A%E5%AC%A2%E6%A7%98%20it%27s%20time%20to%20go%20to%20bed.mp3",
+          "description": {
+            "zh": "お嬢様，it's time to go to bed"
           }
         }
       ]

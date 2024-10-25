@@ -12,10 +12,7 @@ import about_zh from '../README.md';
 export default {
   computed: {
     about_md() {
-      switch (this.$i18n.locale) {
-        default:
-          return about_zh;
-      }
+      return about_zh;
     }
   },
   head() {

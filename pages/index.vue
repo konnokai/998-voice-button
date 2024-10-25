@@ -319,7 +319,7 @@ export default {
           title: this.overlap ? this.$t('control.overlap_title') : item.description[this.current_locale],
           artist: this.$t('control.full_name'),
           album: this.$t('site.title'),
-          artwork: [{ src: '/img/media-cover.jpg', sizes: '128x128', type: 'image/jpeg' }]
+          artwork: [{ src: '/img/media-cover.png', sizes: '512x512', type: 'image/png' }]
         };
         navigator.mediaSession.metadata = new window.MediaMetadata(metadata);
         navigator.mediaSession.playbackState = 'playing';

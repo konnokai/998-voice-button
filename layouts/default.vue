@@ -110,12 +110,6 @@
 <style lang="scss">
 $blur-function: blur(3px);
 .v-application {
-  html[lang='en'] & {
-    font-family: $en-body-fonts;
-  }
-  html[lang='ja'] & {
-    font-family: $ja-body-fonts;
-  }
   html[lang='zh'] & {
     font-family: $zh-body-fonts;
   }
