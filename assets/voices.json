@@ -227,6 +227,13 @@
           }
         },
         {
+          "name": "i_love_vanity",
+          "path": "https://r2.konnokai.me/998-voice-button/mygo/%E6%88%91%E6%84%9B%E6%85%95%E8%99%9B%E6%A6%AE%E5%95%A6.mp3",
+          "description": {
+            "zh": "我愛慕虛榮啦!"
+          }
+        },
+        {
           "name": "is_she_here_to_find_excuses_for_me",
           "path": "https://r2.konnokai.me/998-voice-button/mygo/%E5%A6%B3%E6%98%AF%E4%BE%86%E6%89%BE%E6%88%91%E5%90%B5%E6%9E%B6%E7%9A%84%E5%97%8E.mp3",
           "description": {
