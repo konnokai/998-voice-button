@@ -16,6 +16,84 @@
       ]
     },
     {
+      "group_name": "curse_lyrics",
+      "group_description": {
+        "zh": "罵倒類台詞"
+      },
+      "voice_list": [
+        {
+          "name": "little_trash",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%E5%B0%8F%E5%9E%83%E5%9C%BE.mp3",
+          "description": {
+            "zh": "小垃圾"
+          }
+        },
+        {
+          "name": "little_hentai",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%E5%B0%8F%E8%AE%8A%E6%85%8B.mp3",
+          "description": {
+            "zh": "你想被罵甚麼阿? 想被罵甚麼阿，小變態"
+          }
+        },
+        {
+          "name": "eat_soil_dog",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%E5%8E%BB%E5%90%83%E5%9C%9F%E5%90%A7_%E7%AC%A8%E7%8B%97.mp3",
+          "description": {
+            "zh": "你以為這樣子我就會說謝謝嗎? 去吃土吧，笨狗"
+          }
+        },
+        {
+          "name": "hentai_dog",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%E4%BD%A0%E9%80%99%E5%80%8B%E4%BA%BA%E5%B0%B1%E6%98%AF%E5%A5%BD%E8%89%B2.mp3",
+          "description": {
+            "zh": "肯定是你要求太多了，你這個人就是好色"
+          }
+        },
+        {
+          "name": "go_to_sleep",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%E5%BF%AB%E7%B5%A6%E6%88%91%E6%BB%BE%E5%8E%BB%E7%9D%A1%E8%A6%BA.mp3",
+          "description": {
+            "zh": "哭噢，快給我滾去睡覺，不要在這邊五四三了，走開走開走開走開，滾! 還看甚麼看屁噢，亂七八糟神經病"
+          }
+        },
+        {
+          "name": "lazy_waist_good_night",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%E4%BC%B8%E6%87%B6%E8%85%B0_%E7%9D%A1%E8%A6%BA%E7%9A%84%E6%99%9A%E5%AE%89.mp3",
+          "description": {
+            "zh": "(伸懶腰)沒有，快滾，晚安晚安，睡覺的晚安"
+          }
+        },
+        {
+          "name": "hentai_lolicon",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%E5%A4%89%E6%85%8B%E3%83%AD%E3%83%AA%E3%82%B3%E3%83%B3.mp3",
+          "description": {
+            "zh": "變態ロリコン"
+          }
+        },
+        {
+          "name": "why_havent_you_slept_yet",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%E6%80%8E%E9%BA%BC%E9%82%84%E4%B8%8D%E7%9D%A1%E8%A6%BA_%E9%83%BD%E5%B9%BE%E9%BB%9E%E4%BA%86_%E6%BB%BE.mp3",
+          "description": {
+            "zh": "怎麼還不睡覺? 都幾點了? 滾!"
+          }
+        },
+        {
+          "name": "wants_black_silk_think_to_much",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%E6%83%B3%E8%A6%81%E9%BB%91%E7%B5%B2%E5%97%8E_%E6%83%B3%E5%BE%97%E7%BE%8E.mp3",
+          "description": {
+            "zh": "想要黑絲嗎? 想得美!"
+          }
+        },
+        {
+          "name": "stomp_you_little_bastards",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%E8%B8%A9%E6%AD%BB%E4%BD%A0%E5%80%91%E9%80%99%E7%BE%A4%E5%B0%8F%E7%8E%8B%E5%85%AB%E8%9B%8B.mp3",
+          "description": {
+            "zh": "踩死你們這群小王八蛋"
+          }
+        }
+      ]
+    },
+    {
       "group_name": "headphone_recommand",
       "group_description": {
         "zh": "耳機推薦"
@@ -65,27 +143,6 @@
           }
         },
         {
-          "name": "little_trash",
-          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%B0%8F%E5%9E%83%E5%9C%BE.mp3",
-          "description": {
-            "zh": "小垃圾"
-          }
-        },
-        {
-          "name": "little_hentai",
-          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%B0%8F%E8%AE%8A%E6%85%8B.mp3",
-          "description": {
-            "zh": "你想被罵甚麼阿? 想被罵甚麼阿，小變態"
-          }
-        },
-        {
-          "name": "eat_soil_dog",
-          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%8E%BB%E5%90%83%E5%9C%9F%E5%90%A7_%E7%AC%A8%E7%8B%97.mp3",
-          "description": {
-            "zh": "你以為這樣子我就會說謝謝嗎? 去吃土吧，笨狗"
-          }
-        },
-        {
           "name": "i_like_you",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E6%89%93%E7%9B%B4%E7%90%83%E6%98%AF%E7%94%9A%E9%BA%BC_%E6%88%91%E5%96%9C%E6%AD%A1%E4%BD%A0.mp3",
           "description": {
@@ -97,27 +154,6 @@
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%90%83%E9%A3%AF%E9%A3%AF_%E9%A3%AF%E9%A3%AF.mp3",
           "description": {
             "zh": "吃飯飯，飯飯"
-          }
-        },
-        {
-          "name": "lazy_waist_good_night",
-          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E4%BC%B8%E6%87%B6%E8%85%B0_%E7%9D%A1%E8%A6%BA%E7%9A%84%E6%99%9A%E5%AE%89.mp3",
-          "description": {
-            "zh": "(伸懶腰)沒有，快滾，晚安晚安，睡覺的晚安"
-          }
-        },
-        {
-          "name": "hentai_dog",
-          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E4%BD%A0%E9%80%99%E5%80%8B%E4%BA%BA%E5%B0%B1%E6%98%AF%E5%A5%BD%E8%89%B2.mp3",
-          "description": {
-            "zh": "肯定是你要求太多了，你這個人就是好色"
-          }
-        },
-        {
-          "name": "go_to_sleep",
-          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%BF%AB%E7%B5%A6%E6%88%91%E6%BB%BE%E5%8E%BB%E7%9D%A1%E8%A6%BA.mp3",
-          "description": {
-            "zh": "哭噢，快給我滾去睡覺，不要在這邊五四三了，走開走開走開走開，滾! 還看甚麼看屁噢，亂七八糟神經病"
           }
         },
         {
@@ -149,20 +185,6 @@
           }
         },
         {
-          "name": "hentai_lolicon",
-          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%A4%89%E6%85%8B%E3%83%AD%E3%83%AA%E3%82%B3%E3%83%B3.mp3",
-          "description": {
-            "zh": "變態ロリコン"
-          }
-        },
-        {
-          "name": "why_havent_you_slept_yet",
-          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E6%80%8E%E9%BA%BC%E9%82%84%E4%B8%8D%E7%9D%A1%E8%A6%BA_%E9%83%BD%E5%B9%BE%E9%BB%9E%E4%BA%86_%E6%BB%BE.mp3",
-          "description": {
-            "zh": "怎麼還不睡覺? 都幾點了? 滾!"
-          }
-        },
-        {
           "name": "activate",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E5%95%9F%E5%8B%95.mp3",
           "description": {
@@ -181,20 +203,6 @@
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E7%88%BD%E5%95%A6.mp3",
           "description": {
             "zh": "欸不對 12 分了我可以回來了，爽啦!"
-          }
-        },
-        {
-          "name": "wants_black_silk_think_to_much",
-          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E6%83%B3%E8%A6%81%E9%BB%91%E7%B5%B2%E5%97%8E_%E6%83%B3%E5%BE%97%E7%BE%8E.mp3",
-          "description": {
-            "zh": "想要黑絲嗎? 想得美!"
-          }
-        },
-        {
-          "name": "stomp_you_little_bastards",
-          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%E8%B8%A9%E6%AD%BB%E4%BD%A0%E5%80%91%E9%80%99%E7%BE%A4%E5%B0%8F%E7%8E%8B%E5%85%AB%E8%9B%8B.mp3",
-          "description": {
-            "zh": "踩死你們這群小王八蛋"
           }
         }
       ]
