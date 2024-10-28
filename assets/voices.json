@@ -7,10 +7,10 @@
       },
       "voice_list": [
         {
-          "name": "566-fanfan",
-          "path": "https://r2.konnokai.me/998-voice-button/566/566-%e9%a3%af%e9%a3%af.mp3",
+          "name": "9738c0232bd823e6c6e360a9ec1d1fa5",
+          "path": "https://r2.konnokai.me/998-voice-button/566/%e9%a3%af%e9%a3%af.mp3",
           "description": {
-            "zh": "566 飯飯"
+            "zh": "飯飯"
           }
         }
       ]
@@ -22,220 +22,234 @@
       },
       "voice_list": [
         {
-          "name": "_shenlanyao_-meiyou_kuaigun_wananwanan_shuijuedewanan",
+          "name": "467094074b103ab42b13d58dc2499432",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%28%e4%bc%b8%e6%87%b6%e8%85%b0%29-%e6%b2%92%e6%9c%89_%e5%bf%ab%e6%bb%be_%e6%99%9a%e5%ae%89%e6%99%9a%e5%ae%89_%e7%9d%a1%e8%a6%ba%e7%9a%84%e6%99%9a%e5%ae%89.mp3",
           "description": {
             "zh": "(伸懶腰) 沒有，快滾，晚安晚安，睡覺的晚安"
           }
         },
         {
-          "name": "_qizhi_-nimentongtonggeiwobizui",
+          "name": "bc410f0d56aff73648948534aa52effa",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%28%e6%b0%a3%e8%b3%aa%29-%e4%bd%a0%e5%80%91%e9%80%9a%e9%80%9a%e7%b5%a6%e6%88%91%e9%96%89%e5%98%b4.mp3",
           "description": {
             "zh": "(氣質) 你們通通給我閉嘴"
           }
         },
         {
-          "name": "_qizhi_-nixiangbeimashenmaa_xiangbeimashenmaa_xiaobiantai",
+          "name": "cae6821021c41b6a6cc49a2d075ac73b",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%28%e6%b0%a3%e8%b3%aa%29-%e4%bd%a0%e6%83%b3%e8%a2%ab%e7%bd%b5%e7%94%9a%e9%ba%bc%e9%98%bf_%e6%83%b3%e8%a2%ab%e7%bd%b5%e7%94%9a%e9%ba%bc%e9%98%bf_%e5%b0%8f%e8%ae%8a%e6%85%8b.mp3",
           "description": {
             "zh": "(氣質) 你想被罵甚麼阿，想被罵甚麼阿，小變態"
           }
         },
         {
-          "name": "yiqianhuichuxian_xianzai...yijingbuhuichuxianle_neinimenyinggaizhidaoneixiejiutaoqunalileba_tamencaibushiqu-D-bierenni_yaomabianchengledanyaobao_yaomabianchenglemeiguiyan_bushishuohaoyaodangyibeizidejiutaoma_sibalaxi",
+          "name": "3a04a4dbe5fb37a7f179c193bfef6d83",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e4%bb%a5%e5%89%8d%e6%9c%83%e5%87%ba%e7%8f%be_%e7%8f%be%e5%9c%a8...%e5%b7%b2%e7%b6%93%e4%b8%8d%e6%9c%83%e5%87%ba%e7%8f%be%e4%ba%86_%e9%82%a3%e4%bd%a0%e5%80%91%e6%87%89%e8%a9%b2%e7%9f%a5%e9%81%93%e9%82%a3%e4%ba%9b%e7%8e%96%e6%a1%83%e5%8e%bb%e5%93%aa%e8%a3%a1%e4%ba%86%e5%90%a7_%e4%bb%96%e5%80%91%e6%89%8d%e4%b8%8d%e6%98%af%e5%8e%bb-D-%e5%88%a5%e4%ba%ba%e5%91%a2_%e8%a6%81%e9%a6%ac%e8%ae%8a%e6%88%90%e4%ba%86%e5%bd%88%e8%97%a5%e5%8c%85_%e8%a6%81%e9%a6%ac%e8%ae%8a%e6%88%90%e4%ba%86%e7%8e%ab%e7%91%b0%e9%b9%bd_%e4%b8%8d%e6%98%af%e8%aa%aa%e5%a5%bd%e8%a6%81%e7%95%b6%e4%b8%80%e8%bc%a9%e5%ad%90%e7%9a%84%e7%8e%96%e6%a1%83%e5%97%8e_%e6%96%af%e5%b7%b4%e6%8b%89%e8%a5%bf.mp3",
           "description": {
             "zh": "以前會出現，現在...已經不會出現了，那你們應該知道那些玖桃去哪裡了吧，他們才不是去 D 別人呢，要馬變成了彈藥包，要馬變成了玫瑰鹽，不是說好要當一輩子的玖桃嗎，斯巴拉西"
           }
         },
         {
-          "name": "niyiweizheyangziwojiuhuishuoxiexiema_quchitubabengou",
+          "name": "b921821e96197113625497ab24db92fe",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e4%bd%a0%e4%bb%a5%e7%82%ba%e9%80%99%e6%a8%a3%e5%ad%90%e6%88%91%e5%b0%b1%e6%9c%83%e8%aa%aa%e8%ac%9d%e8%ac%9d%e5%97%8e_%e5%8e%bb%e5%90%83%e5%9c%9f%e5%90%a7%e7%ac%a8%e7%8b%97.mp3",
           "description": {
             "zh": "你以為這樣子我就會說謝謝嗎，去吃土吧笨狗"
           }
         },
         {
-          "name": "nimenzhexiechougou",
+          "name": "d85be3185de16585449dd696533e8586",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e4%bd%a0%e5%80%91%e9%80%99%e4%ba%9b%e8%87%ad%e7%8b%97.mp3",
           "description": {
             "zh": "你們這些臭狗"
           }
         },
         {
-          "name": "nimendouyigerenkanzhiboo_zenmadoumeiyourengennimenyiqiwan_haokeliano",
+          "name": "a1fe2c70a6b5d45f8746b2784af2bf6d",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e4%bd%a0%e5%80%91%e9%83%bd%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9c%8b%e7%9b%b4%e6%92%ad%e5%99%a2_%e6%80%8e%e9%ba%bc%e9%83%bd%e6%b2%92%e6%9c%89%e4%ba%ba%e8%b7%9f%e4%bd%a0%e5%80%91%e4%b8%80%e8%b5%b7%e7%8e%a9_%e5%a5%bd%e5%8f%af%e6%86%90%e5%99%a2.mp3",
           "description": {
             "zh": "你們都一個人看直播噢，怎麼都沒有人跟你們一起玩，好可憐噢"
           }
         },
         {
-          "name": "nizaichaojiubanizuochengdanyaobao",
+          "name": "4fa434803220eede599d2d7a071bc382",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e4%bd%a0%e5%86%8d%e5%90%b5%e5%b0%b1%e6%8a%8a%e4%bd%a0%e5%81%9a%e6%88%90%e5%bd%88%e8%97%a5%e5%8c%85.mp3",
           "description": {
             "zh": "你再吵就把你做成彈藥包"
           }
         },
         {
-          "name": "nizenmaxianzaicaizhuisui_nizhiqiandouzaiganma_sinaqule",
+          "name": "8a2fb0031bb564d5ba692b6d5b14d7b0",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e4%bd%a0%e6%80%8e%e9%ba%bc%e7%8f%be%e5%9c%a8%e6%89%8d%e8%bf%bd%e9%9a%a8_%e4%bd%a0%e4%b9%8b%e5%89%8d%e9%83%bd%e5%9c%a8%e5%b9%b9%e5%98%9b_%e6%ad%bb%e5%93%aa%e5%8e%bb%e4%ba%86.mp3",
           "description": {
             "zh": "你怎麼現在才追隨，你之前都在幹嘛，死哪去了"
           }
         },
         {
-          "name": "nicaiguangtou",
+          "name": "0cbc1597fb427c777437b7997f192d0a",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e4%bd%a0%e6%89%8d%e5%85%89%e9%a0%ad.mp3",
           "description": {
             "zh": "你才光頭"
           }
         },
         {
-          "name": "nicaichangjiaoniquanjiadouchangjiao_wocaibuhuishixiannimendeyuanwangle_shenjingbing_nüershinüerjiutaoshijiutao_jiutaoshidixiade",
+          "name": "5ff34a1985ec0040e5731cd5cba919c3",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e4%bd%a0%e6%89%8d%e9%95%b7%e8%a7%92%e4%bd%a0%e5%85%a8%e5%ae%b6%e9%83%bd%e9%95%b7%e8%a7%92_%e6%88%91%e6%89%8d%e4%b8%8d%e6%9c%83%e5%af%a6%e7%8f%be%e4%bd%a0%e5%80%91%e7%9a%84%e9%a1%98%e6%9c%9b%e5%8b%92_%e7%a5%9e%e7%b6%93%e7%97%85_%e5%a5%b3%e5%85%92%e6%98%af%e5%a5%b3%e5%85%92%e7%8e%96%e6%a1%83%e6%98%af%e4%b9%85%e6%a1%83_%e7%8e%96%e6%a1%83%e6%98%af%e4%bd%8e%e4%b8%8b%e7%9a%84.mp3",
           "description": {
             "zh": "你才長角你全家都長角，我才不會實現你們的願望勒，神經病，女兒是女兒玖桃是久桃，玖桃是低下的"
           }
         },
         {
-          "name": "nigeidexiaoqidianyetaishaoleba_caiyibaidian_zhesuanyougeima",
+          "name": "51098e73021d70f1afb4a20104c36c58",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e4%bd%a0%e7%b5%a6%e7%9a%84%e5%b0%8f%e5%a5%87%e9%bb%9e%e4%b9%9f%e5%a4%aa%e5%b0%91%e4%ba%86%e5%90%a7_%e6%89%8d%e4%b8%80%e7%99%be%e9%bb%9e_%e9%80%99%e7%ae%97%e6%9c%89%e7%b5%a6%e5%97%8e.mp3",
           "description": {
             "zh": "你給的小奇點也太少了吧，才一百點，這算有給嗎"
           }
         },
         {
-          "name": "nihuanzaishangban_taikelianleba_zenmaxianzaihuanzaishangban_youmeiyoujiabanfeia_nizhegekeliangui",
+          "name": "649027392b804ef328aa671c7d172a1e",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e4%bd%a0%e9%82%84%e5%9c%a8%e4%b8%8a%e7%8f%ad_%e5%a4%aa%e5%8f%af%e6%86%90%e4%ba%86%e5%90%a7_%e6%80%8e%e9%ba%bc%e7%8f%be%e5%9c%a8%e9%82%84%e5%9c%a8%e4%b8%8a%e7%8f%ad_%e6%9c%89%e6%b2%92%e6%9c%89%e5%8a%a0%e7%8f%ad%e8%b2%bb%e9%98%bf_%e4%bd%a0%e9%80%99%e5%80%8b%e5%8f%af%e6%86%90%e9%ac%bc.mp3",
           "description": {
             "zh": "你還在上班，太可憐了吧，怎麼現在還在上班，有沒有加班費阿，你這個可憐鬼"
           }
         },
         {
-          "name": "baga-baga-baga-biantai",
+          "name": "0e4d263084c4cf96b17c5f5bbd752cfe",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e5%85%ab%e5%98%8e-%e5%85%ab%e5%98%8e-%e5%85%ab%e5%98%8e-%e8%ae%8a%e6%85%8b.mp3",
           "description": {
             "zh": "八嘎 八嘎 八嘎 變態"
           }
         },
         {
-          "name": "daodishinagelajihuanzhegedongxi_zheshenmalajia",
+          "name": "31ac9bd03995eb4b76e96429cd5325ae",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e5%88%b0%e5%ba%95%e6%98%af%e5%93%aa%e5%80%8b%e5%9e%83%e5%9c%be%e6%8f%9b%e9%80%99%e5%80%8b%e6%9d%b1%e8%a5%bf_%e9%80%99%e4%bb%80%e9%ba%bc%e5%9e%83%e5%9c%be%e5%95%8a.mp3",
           "description": {
             "zh": "到底是哪個垃圾換這個東西，這什麼垃圾啊"
           }
         },
         {
-          "name": "kuo_kuaigeiwogunqushuijue_buyaozaizhebianwusisanle_zoukaizoukaizoukaizoukai_gun_huankanshenmakanpio_luanqibazaoshenjingbing",
+          "name": "77c9fb8b9d933bad6b2411da41c73bbd",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e5%93%ad%e5%99%a2_%e5%bf%ab%e7%b5%a6%e6%88%91%e6%bb%be%e5%8e%bb%e7%9d%a1%e8%a6%ba_%e4%b8%8d%e8%a6%81%e5%9c%a8%e9%80%99%e9%82%8a%e4%ba%94%e5%9b%9b%e4%b8%89%e4%ba%86_%e8%b5%b0%e9%96%8b%e8%b5%b0%e9%96%8b%e8%b5%b0%e9%96%8b%e8%b5%b0%e9%96%8b_%e6%bb%be_%e9%82%84%e7%9c%8b%e7%94%9a%e9%ba%bc%e7%9c%8b%e5%b1%81%e5%99%a2_%e4%ba%82%e4%b8%83%e5%85%ab%e7%b3%9f%e7%a5%9e%e7%b6%93%e7%97%85.mp3",
           "description": {
             "zh": "哭噢，快給我滾去睡覺，不要在這邊五四三了，走開走開走開走開，滾，還看甚麼看屁噢，亂七八糟神經病"
           }
         },
         {
-          "name": "wuxin-wuxin",
+          "name": "6b64e7db570ccf07324eeef926e0f28a",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e5%99%81%e5%bf%83-%e5%99%81%e5%bf%83.mp3",
           "description": {
             "zh": "噁心 噁心"
           }
         },
         {
-          "name": "obushenma_jiasaila",
+          "name": "02dbfc01b89e1600611d02198c16d005",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e5%99%a2%e4%b8%8d%e7%94%9a%e9%ba%bc_%e5%81%87%e8%b3%bd%e5%96%87.mp3",
           "description": {
             "zh": "噢不甚麼，假賽喇"
           }
         },
         {
-          "name": "biantaiロリコン",
+          "name": "cf9d9da59f23445c655e0b0a992c3872",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e5%a4%89%e6%85%8b%e3%83%ad%e3%83%aa%e3%82%b3%e3%83%b3.mp3",
           "description": {
             "zh": "変態ロリコン"
           }
         },
         {
-          "name": "xiaolaji",
+          "name": "eeefdfe50715830f7b3494af53f97017",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e5%b0%8f%e5%9e%83%e5%9c%be.mp3",
           "description": {
             "zh": "小垃圾"
           }
         },
         {
-          "name": "gongshaxiaola",
+          "name": "39aca0013b7c5eabb7d031d56c40eb9e",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e5%b7%a5%e6%ae%ba%e5%b0%8f%e5%96%87.mp3",
           "description": {
             "zh": "工殺小喇"
           }
         },
         {
-          "name": "nongsinizhexiexiaowangbadan",
+          "name": "da499414d337e527ac11a6a3e1e8716a",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e5%bc%84%e6%ad%bb%e4%bd%a0%e9%80%99%e4%ba%9b%e5%b0%8f%e7%8e%8b%e5%85%ab%e8%9b%8b.mp3",
           "description": {
             "zh": "弄死你這些小王八蛋"
           }
         },
         {
-          "name": "zenmahuanbushuijue_doujidianle_gun",
+          "name": "2cf7098204fe64027c18c2267917d10f",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e6%80%8e%e9%ba%bc%e9%82%84%e4%b8%8d%e7%9d%a1%e8%a6%ba_%e9%83%bd%e5%b9%be%e9%bb%9e%e4%ba%86_%e6%bb%be.mp3",
           "description": {
             "zh": "怎麼還不睡覺，都幾點了，滾"
           }
         },
         {
-          "name": "xiangyaoheisima_xiangdemei",
+          "name": "a1665e9a47658e1feec2bd5c5d817150",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e6%83%b3%e8%a6%81%e9%bb%91%e7%b5%b2%e5%97%8e_%e6%83%b3%e5%be%97%e7%be%8e.mp3",
           "description": {
             "zh": "想要黑絲嗎，想得美"
           }
         },
         {
-          "name": "wozhidaonimenhuiwangla_keshinimenneigewanga_tailianjiale_genlajimeiyouliangyang",
+          "name": "8bfb7e0b2f5d01e89946a77c5c485034",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e6%88%91%e7%9f%a5%e9%81%93%e4%bd%a0%e5%80%91%e6%9c%83%e6%b1%aa%e5%95%a6_%e5%8f%af%e6%98%af%e4%bd%a0%e5%80%91%e9%82%a3%e5%80%8b%e6%b1%aa%e9%98%bf_%e5%a4%aa%e5%bb%89%e5%83%b9%e4%ba%86_%e8%b7%9f%e5%9e%83%e5%9c%be%e6%b2%92%e6%9c%89%e5%85%a9%e6%a8%a3.mp3",
           "description": {
             "zh": "我知道你們會汪啦，可是你們那個汪阿，太廉價了，跟垃圾沒有兩樣"
           }
         },
         {
-          "name": "youmeiyoumaobinga",
+          "name": "cd3269a7f16d4b5b936e7d80390e226a",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e6%9c%89%e6%b2%92%e6%9c%89%e6%af%9b%e7%97%85%e5%95%8a.mp3",
           "description": {
             "zh": "有沒有毛病啊"
           }
         },
         {
-          "name": "shenmabuyao_nimenyouneigequanlijujuema_meiyou_nimenjiuzhishigegoumeiyouquanlijujue",
+          "name": "992221b8e11768cc7d674b7e6859c833",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e7%8d%a8%e8%a7%92%e7%8d%b8%e7%b5%a6%e6%88%91%e9%96%89%e5%98%b4.mp3",
+          "description": {
+            "zh": "獨角獸給我閉嘴"
+          }
+        },
+        {
+          "name": "17f003e4248023a4f67578c09d01caca",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e7%94%9a%e9%ba%bc%e4%b8%8d%e8%a6%81_%e4%bd%a0%e5%80%91%e6%9c%89%e9%82%a3%e5%80%8b%e6%ac%8a%e5%88%a9%e6%8b%92%e7%b5%95%e5%97%8e_%e6%b2%92%e6%9c%89_%e4%bd%a0%e5%80%91%e5%b0%b1%e5%8f%aa%e6%98%af%e5%80%8b%e7%8b%97%e6%b2%92%e6%9c%89%e6%ac%8a%e5%88%a9%e6%8b%92%e7%b5%95.mp3",
           "description": {
             "zh": "甚麼不要，你們有那個權利拒絕嗎，沒有，你們就只是個狗沒有權利拒絕"
           }
         },
         {
-          "name": "shenjingbinge",
+          "name": "c0a34e2ca56cf64b00e02073e9a2f53a",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e7%a5%9e%e7%b6%93%e7%97%85%e5%93%a6.mp3",
           "description": {
             "zh": "神經病哦"
           }
         },
         {
-          "name": "kendingshiniyaoqiutaiduole_nizhegerenjiushihaose",
+          "name": "562b3e424b306d10393966d264ab6458",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e8%82%af%e5%ae%9a%e6%98%af%e4%bd%a0%e8%a6%81%e6%b1%82%e5%a4%aa%e5%a4%9a%e4%ba%86_%e4%bd%a0%e9%80%99%e5%80%8b%e4%ba%ba%e5%b0%b1%e6%98%af%e5%a5%bd%e8%89%b2.mp3",
           "description": {
             "zh": "肯定是你要求太多了，你這個人就是好色"
           }
         },
         {
-          "name": "caisinimenzhequnxiaowangbadan",
+          "name": "cb24d259097c13686f3e5c76b300deea",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e8%b8%a9%e6%ad%bb%e4%bd%a0%e5%80%91%e9%80%99%e7%be%a4%e5%b0%8f%e7%8e%8b%e5%85%ab%e8%9b%8b.mp3",
           "description": {
             "zh": "踩死你們這群小王八蛋"
           }
         },
         {
-          "name": "neibiananande_zenmaxianzaicailai_daodiyoumeiyoukaitongzhia_dajiadouzaidengniyige",
+          "name": "1b70b716a980a959f8565395e5e88a8f",
           "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e9%82%a3%e9%82%8a%e5%ae%89%e5%ae%89%e7%9a%84_%e6%80%8e%e9%ba%bc%e7%8f%be%e5%9c%a8%e6%89%8d%e4%be%86_%e5%88%b0%e5%ba%95%e6%9c%89%e6%b2%92%e6%9c%89%e9%96%8b%e9%80%9a%e7%9f%a5%e9%98%bf_%e5%a4%a7%e5%ae%b6%e9%83%bd%e5%9c%a8%e7%ad%89%e4%bd%a0%e4%b8%80%e5%80%8b.mp3",
           "description": {
             "zh": "那邊安安的，怎麼現在才來，到底有沒有開通知阿，大家都在等你一個"
+          }
+        },
+        {
+          "name": "e86329a205fc9d5ca5119ed312a786f3",
+          "path": "https://r2.konnokai.me/998-voice-button/curse_lyrics/%e9%87%98%e5%ae%ae%e4%b8%89%e9%80%a3.mp3",
+          "description": {
+            "zh": "釘宮三連"
           }
         }
       ]
@@ -243,39 +257,39 @@
     {
       "group_name": "headphone_recommand",
       "group_description": {
-        "zh": "耳機推薦"
+        "zh": "耳機推薦 (強烈推薦，如果你不想社死的話)"
       },
       "voice_list": [
         {
-          "name": "_shenlanyao_",
+          "name": "16c846dfdb423824371a6ff260319b9d",
           "path": "https://r2.konnokai.me/998-voice-button/headphone_recommand/%28%e4%bc%b8%e6%87%b6%e8%85%b0%29.mp3",
           "description": {
             "zh": "(伸懶腰)"
           }
         },
         {
-          "name": "yizhidouhenganxie_dajiadezhichi_wanananzhudajiahaomeng",
+          "name": "7631b3237746cbda03b1b608d6c889c2",
           "path": "https://r2.konnokai.me/998-voice-button/headphone_recommand/%e4%b8%80%e7%9b%b4%e9%83%bd%e5%be%88%e6%84%9f%e8%ac%9d_%e5%a4%a7%e5%ae%b6%e7%9a%84%e6%94%af%e6%8c%81_%e6%99%9a%e5%ae%89%e5%ae%89%e7%a5%9d%e5%a4%a7%e5%ae%b6%e5%a5%bd%e5%a4%a2.mp3",
           "description": {
             "zh": "一直都很感謝，大家的支持，晚安安祝大家好夢"
           }
         },
         {
-          "name": "nimenzhequnxiaobengou_haiwohaodiuliano",
+          "name": "6e44b8c5810ef57cbb5f34628429e4e5",
           "path": "https://r2.konnokai.me/998-voice-button/headphone_recommand/%e4%bd%a0%e5%80%91%e9%80%99%e7%be%a4%e5%b0%8f%e7%ac%a8%e7%8b%97_%e5%ae%b3%e6%88%91%e5%a5%bd%e4%b8%9f%e8%87%89%e5%99%a2.mp3",
           "description": {
             "zh": "你們這群小笨狗，害我好丟臉噢"
           }
         },
         {
-          "name": "haolema_haolema",
+          "name": "3ea6a74ab38fc595745184b6366dee42",
           "path": "https://r2.konnokai.me/998-voice-button/headphone_recommand/%e5%a5%bd%e4%ba%86%e5%97%8e_%e5%a5%bd%e4%ba%86%e5%97%8e.mp3",
           "description": {
             "zh": "好了嗎，好了嗎"
           }
         },
         {
-          "name": "mingtian_tingzhishangbanshangkeo",
+          "name": "3b1bf3380a1bdf6876d9ded13568a3b7",
           "path": "https://r2.konnokai.me/998-voice-button/headphone_recommand/%e6%98%8e%e5%a4%a9_%e5%81%9c%e6%ad%a2%e4%b8%8a%e7%8f%ad%e4%b8%8a%e8%aa%b2%e5%99%a2.mp3",
           "description": {
             "zh": "明天，停止上班上課噢"
@@ -290,203 +304,245 @@
       },
       "voice_list": [
         {
-          "name": "bunulijiuhuichengweijiujiubadewanwu_guannipishiwoleyi",
+          "name": "045cdb8f38728e58501d76186fd9dda6",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e4%b8%8d%e5%8a%aa%e5%8a%9b%e5%b0%b1%e6%9c%83%e6%88%90%e7%82%ba%e7%8e%96%e7%8e%96%e5%b7%b4%e7%9a%84%e7%8e%a9%e7%89%a9_%e9%97%9c%e4%bd%a0%e5%b1%81%e4%ba%8b%e6%88%91%e6%a8%82%e6%84%8f.mp3",
           "description": {
             "zh": "不努力就會成為玖玖巴的玩物，關你屁事我樂意"
           }
         },
         {
-          "name": "buyaohele",
+          "name": "34e6b08d1b48c750ef307f9f053fe550",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e4%b8%8d%e8%a6%81%e5%96%9d%e4%ba%86.mp3",
           "description": {
             "zh": "不要喝了"
           }
         },
         {
-          "name": "renjia-renjiashinüshengnei",
+          "name": "8e789fe4721a763197353d9bacfb07fc",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e4%ba%ba%e5%ae%b6-%e4%ba%ba%e5%ae%b6%e6%98%af%e5%a5%b3%e7%94%9f%e9%a4%92.mp3",
           "description": {
             "zh": "人家 人家是女生餒"
           }
         },
         {
-          "name": "xiongdi-_xiaosheng_",
+          "name": "0b26b386856414e2c62719d25119f044",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e5%85%84%e5%bc%9f-%28%e5%b0%8f%e8%81%b2%29.mp3",
           "description": {
             "zh": "兄弟 (小聲)"
           }
         },
         {
-          "name": "chifanfan_fanfan~",
+          "name": "b6de2752ca8ab17e8165cca8ff6e04d6",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e5%90%83%e9%a3%af%e9%a3%af_%e9%a3%af%e9%a3%af%7e.mp3",
           "description": {
             "zh": "吃飯飯，飯飯~"
           }
         },
         {
-          "name": "qidong~",
+          "name": "daaf1f4c59643d650c2c549cca2ffab2",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e5%95%9f%e5%8b%95%7e.mp3",
           "description": {
             "zh": "啟動~"
           }
         },
         {
-          "name": "haowoqushoushidajia_rangwohaohaodeshoushinimen",
+          "name": "64d16cbdbc7d2af01047f2e240de6c89",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e5%a4%a7%e5%a5%bd%e3%81%8d.mp3",
+          "description": {
+            "zh": "大好き"
+          }
+        },
+        {
+          "name": "5ebdf48c1c1d894a39d52c55e98a7ae7",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e5%a5%bd%e6%88%91%e5%8e%bb%e6%94%b6%e6%8b%be%e5%a4%a7%e5%ae%b6_%e8%ae%93%e6%88%91%e5%a5%bd%e5%a5%bd%e7%9a%84%e6%94%b6%e6%8b%be%e4%bd%a0%e5%80%91.mp3",
           "description": {
             "zh": "好我去收拾大家，讓我好好的收拾你們"
           }
         },
         {
-          "name": "haomafano",
+          "name": "893851f7b6aa114307ac3653dcf7e224",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e5%a5%bd%e9%ba%bb%e7%85%a9%e5%99%a2.mp3",
           "description": {
             "zh": "好麻煩噢"
           }
         },
         {
-          "name": "gongzuo-haoleio-_xiaosheng_",
+          "name": "4b0b60ea9abf7b41e5d29becd0bbe688",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e5%b7%a5%e4%bd%9c-%e5%a5%bd%e7%b4%af%e5%99%a2-%28%e5%b0%8f%e8%81%b2%29.mp3",
           "description": {
             "zh": "工作 好累噢 (小聲)"
           }
         },
         {
-          "name": "woxiangyixia-_shenlanyao_",
+          "name": "53ad3b944f18c43a00706b63bcb303c8",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e6%88%91%e6%83%b3%e4%b8%80%e4%b8%8b-%28%e4%bc%b8%e6%87%b6%e8%85%b0%29.mp3",
           "description": {
             "zh": "我想一下 (伸懶腰)"
           }
         },
         {
-          "name": "wobanimenkanguangguangle_tuodiao-rangwokankan",
+          "name": "20d83e1451cba40b8b058808e59ac3ef",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e6%88%91%e6%8a%8a%e4%bd%a0%e5%80%91%e7%9c%8b%e5%85%89%e5%85%89%e4%ba%86_%e8%84%ab%e6%8e%89-%e8%ae%93%e6%88%91%e7%9c%8b%e7%9c%8b.mp3",
           "description": {
             "zh": "我把你們看光光了，脫掉 讓我看看"
           }
         },
         {
-          "name": "wozuitaoyanzhezhongzhijueminruidelaopolong",
+          "name": "e2db9bf01c32bede5c21b6a959e9b5c7",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e6%88%91%e6%9c%80%e8%a8%8e%e5%8e%ad%e9%80%99%e7%a8%ae%e7%9b%b4%e8%a6%ba%e6%95%8f%e9%8a%b3%e7%9a%84%e8%80%81%e5%a9%86%e9%be%8d.mp3",
           "description": {
             "zh": "我最討厭這種直覺敏銳的老婆龍"
           }
         },
         {
-          "name": "suoyiwogaiqushejiaole-keshiwohuipaa",
+          "name": "5153c7443e4e18f2c89c3dad2d8640ed",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e6%89%80%e4%bb%a5%e6%88%91%e8%a9%b2%e5%8e%bb%e7%a4%be%e4%ba%a4%e4%ba%86-%e5%8f%af%e6%98%af%e6%88%91%e6%9c%83%e6%80%95%e9%98%bf.mp3",
           "description": {
             "zh": "所以我該去社交了 可是我會怕阿"
           }
         },
         {
-          "name": "dazhiqiushishenma-woxihuanni",
+          "name": "c4fee6f0a3cf0336e73e1a855268dd91",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e6%89%93%e7%9b%b4%e7%90%83%e6%98%af%e7%94%9a%e9%ba%bc-%e6%88%91%e5%96%9c%e6%ad%a1%e4%bd%a0.mp3",
           "description": {
             "zh": "打直球是甚麼 我喜歡你"
           }
         },
         {
-          "name": "sibalaxi",
+          "name": "3f394c5a7eea73e55cd3a5eaa96a7821",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e6%8a%93%e4%bb%96_%e6%8a%93%e4%bb%96-%28%e5%b0%8f%e8%81%b2%29.mp3",
+          "description": {
+            "zh": "抓他，抓他 (小聲)"
+          }
+        },
+        {
+          "name": "2fddae2b306bca9f05a9fd5177cc1f5d",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e6%96%af%e5%b7%b4%e6%8b%89%e8%a5%bf.mp3",
           "description": {
             "zh": "斯巴拉西"
           }
         },
         {
-          "name": "wanan-wanandewanan_zhuhaomeng",
+          "name": "81b77a20af23e61905ee2ae60bbbee93",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e6%99%9a%e5%ae%89-%e6%99%9a%e5%ae%89%e7%9a%84%e6%99%9a%e5%ae%89_%e7%a5%9d%e5%a5%bd%e5%a4%a2.mp3",
           "description": {
             "zh": "晚安 晚安的晚安，祝好夢"
           }
         },
         {
-          "name": "e^budui-12-fenlewokeyihuilaile_shuangla~",
+          "name": "ddf7495b6739904872349b5369e816bb",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e6%9c%89%e8%b3%a3_%e7%94%a9%e5%ae%a2%e4%ba%ba%e9%a6%ac%e5%b0%be%e5%97%8e-%e6%b2%92%e6%9c%89_%e7%94%a9%e4%bd%a0%e5%80%91.mp3",
+          "description": {
+            "zh": "有賣，甩客人馬尾嗎 沒有，甩你們"
+          }
+        },
+        {
+          "name": "1801dc856255cf5bda12c7cd0705ecbc",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e6%ac%b8%e4%b8%8d%e5%b0%8d-12-%e5%88%86%e4%ba%86%e6%88%91%e5%8f%af%e4%bb%a5%e5%9b%9e%e4%be%86%e4%ba%86_%e7%88%bd%e5%95%a6%7e.mp3",
           "description": {
             "zh": "欸不對 12 分了我可以回來了，爽啦~"
           }
         },
         {
-          "name": "jiujiuba_jiujiubafeichuqule",
+          "name": "5b1f916f326176692548857940903495",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e7%8e%96%e7%8e%96%e5%b7%b4_%e7%8e%96%e7%8e%96%e5%b7%b4%e9%a3%9b%e5%87%ba%e5%8e%bb%e4%ba%86.mp3",
           "description": {
             "zh": "玖玖巴，玖玖巴飛出去了"
           }
         },
         {
-          "name": "jiujiubalaoshi_wozhendehennuli_nizenmazheyangzishuo",
+          "name": "17242c9579d389de8953288621880b6b",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e7%8e%96%e7%8e%96%e5%b7%b4%e8%80%81%e5%b8%ab_%e6%88%91%e7%9c%9f%e7%9a%84%e5%be%88%e5%8a%aa%e5%8a%9b_%e4%bd%a0%e6%80%8e%e9%ba%bc%e9%80%99%e6%a8%a3%e5%ad%90%e8%aa%aa.mp3",
           "description": {
             "zh": "玖玖巴老師，我真的很努力，你怎麼這樣子說"
           }
         },
         {
-          "name": "tongzhishijie",
+          "name": "fae40cce187c80078b317a0a6fae07a0",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e7%b5%b1%e6%b2%bb%e4%b8%96%e7%95%8c.mp3",
           "description": {
             "zh": "統治世界"
           }
         },
         {
-          "name": "huitubandandiao_buhuatule_dandiao",
+          "name": "dca0940aad0996ee6e2429b8b19bdcd0",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e7%b9%aa%e5%9c%96%e6%9d%bf%e8%9b%8b%e9%9b%95_%e4%b8%8d%e7%95%ab%e5%9c%96%e4%ba%86_%e8%9b%8b%e9%9b%95.mp3",
           "description": {
             "zh": "繪圖板蛋雕，不畫圖了，蛋雕"
           }
         },
         {
-          "name": "mangguolagan",
+          "name": "61eec9a6c9db205bfc170b85142bbe87",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e8%89%b2%e7%94%9a%e9%ba%bc_%e8%89%b2%e5%8d%b3%e6%98%af%e7%a9%ba-%e7%a9%ba%e5%8d%b3%e6%98%af%e8%89%b2_%e5%8f%aa%e8%a6%81%e4%bd%a0%e5%bf%83%e8%a3%a1%e6%b2%92%e6%9c%89%e8%89%b2%e8%89%b2%e9%80%99%e4%b8%80%e5%88%87%e5%b0%b1%e6%b2%92%e6%9c%89%e8%89%b2%e8%89%b2%e4%ba%86.mp3",
+          "description": {
+            "zh": "色甚麼，色即是空 空即是色，只要你心裡沒有色色這一切就沒有色色了"
+          }
+        },
+        {
+          "name": "3e05d8654feb8ae72f1743e1d6cbe9a4",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e8%8a%92%e6%9e%9c%e5%95%a6%e6%b7%a6.mp3",
           "description": {
             "zh": "芒果啦淦"
           }
         },
         {
-          "name": "qingbuyaowannongjiujiuba-xiexie_zhiyoujiujiubakeyiwannongnimen",
+          "name": "8b9004375f4fe566bc5e79b370f8972e",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e8%ab%8b%e4%b8%8d%e8%a6%81%e7%8e%a9%e5%bc%84%e7%8e%96%e7%8e%96%e5%b7%b4-%e8%ac%9d%e8%ac%9d_%e5%8f%aa%e6%9c%89%e7%8e%96%e7%8e%96%e5%b7%b4%e5%8f%af%e4%bb%a5%e7%8e%a9%e5%bc%84%e4%bd%a0%e5%80%91.mp3",
           "description": {
             "zh": "請不要玩弄玖玖巴 謝謝，只有玖玖巴可以玩弄你們"
           }
         },
         {
-          "name": "zhezhangtuhaonanhua_TMD-shuishejide",
+          "name": "1d8db58a4dafa8635e1d30afe5b09fe6",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e9%80%99%e5%bc%b5%e5%9c%96%e5%a5%bd%e9%9b%a3%e7%95%ab_TMD-%e8%aa%b0%e8%a8%ad%e8%a8%88%e7%9a%84.mp3",
           "description": {
             "zh": "這張圖好難畫，TMD 誰設計的"
           }
         },
         {
-          "name": "mendoumeiyou",
+          "name": "fc8722a4f8fc1cb04ac7699187b60473",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e9%80%99%e7%94%9a%e9%ba%bc%e8%81%b2%e9%9f%b3%e9%98%bf.mp3",
+          "description": {
+            "zh": "這甚麼聲音阿"
+          }
+        },
+        {
+          "name": "cf37a1b6219832d83c8f6cc7cfb2ee35",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e9%96%80%e9%83%bd%e6%b2%92%e6%9c%89.mp3",
           "description": {
             "zh": "門都沒有"
           }
         },
         {
-          "name": "a~leida",
+          "name": "dcfbe062d318f1bc64c51ef36e23d5e9",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e9%98%bf%7e%e9%9b%b7%e9%81%94.mp3",
           "description": {
             "zh": "阿~雷達"
           }
         },
         {
-          "name": "agan",
+          "name": "5ea467fdcbf12bba7c30a410843f5fce",
+          "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e9%98%bf%e5%81%89.mp3",
+          "description": {
+            "zh": "阿偉"
+          }
+        },
+        {
+          "name": "fcdc7036acc909f67aed43cdc0fac5b6",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e9%98%bf%e5%b9%b9.mp3",
           "description": {
             "zh": "阿幹"
           }
         },
         {
-          "name": "aganXX",
+          "name": "f929fa7d894d91d0e3c63bec117fefd8",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e9%98%bf%e6%b7%a6XX.mp3",
           "description": {
             "zh": "阿淦XX"
           }
         },
         {
-          "name": "fanfan_fanfan",
+          "name": "ef9026dbb71575539c94800c485f686e",
           "path": "https://r2.konnokai.me/998-voice-button/misc_lyrics/%e9%a3%af%e9%a3%af_%e9%a3%af%e9%a3%af.mp3",
           "description": {
             "zh": "飯飯，飯飯"
@@ -501,56 +557,63 @@
       },
       "voice_list": [
         {
-          "name": "nixianzainaodaidoushizhendema_zhendema",
+          "name": "d3517f62e46224776976636af232eef9",
           "path": "https://r2.konnokai.me/998-voice-button/mygo/%e4%bd%a0%e7%8f%be%e5%9c%a8%e8%85%a6%e8%a2%8b%e9%83%bd%e6%98%af%e7%9c%9f%e7%9a%84%e5%97%8e_%e7%9c%9f%e7%9a%84%e5%97%8e.mp3",
           "description": {
             "zh": "你現在腦袋都是真的嗎，真的嗎"
           }
         },
         {
-          "name": "naishilaizhaowochaojiadema",
+          "name": "17b516978549cbffc7817844bfe631c6",
+          "path": "https://r2.konnokai.me/998-voice-button/mygo/%e5%8f%88%e4%be%86%e4%ba%86%e4%b8%80%e5%80%8b%e6%96%b0%e4%ba%ba.mp3",
+          "description": {
+            "zh": "又來了一個新人"
+          }
+        },
+        {
+          "name": "934567a5ba20d831fc44d450cf975c47",
           "path": "https://r2.konnokai.me/998-voice-button/mygo/%e5%a6%b3%e6%98%af%e4%be%86%e6%89%be%e6%88%91%e5%90%b5%e6%9e%b6%e7%9a%84%e5%97%8e.mp3",
           "description": {
             "zh": "妳是來找我吵架的嗎"
           }
         },
         {
-          "name": "woyijingshougounimenzhequngougoule_woshouGOle",
-          "path": "https://r2.konnokai.me/998-voice-button/mygo/%e6%88%91%e5%b7%b2%e7%b6%93%e5%8f%97%e5%a4%a0%e4%bd%a0%e5%80%91%e9%80%99%e7%be%a4%e7%8b%97%e7%8b%97%e4%ba%86_%e6%88%91%e5%8f%97GO%e4%ba%86.mp3",
+          "name": "7365d679b00b63bbf8bc322e72aa46a2",
+          "path": "https://r2.konnokai.me/998-voice-button/mygo/%e6%88%91%e5%b7%b2%e7%b6%93%e5%8f%97%e5%a4%a0%e4%bd%a0%e5%80%91%e9%80%99%e7%be%a4%e7%8b%97%e7%8b%97%e4%ba%86_%e6%88%91%e5%8f%97-GO-%e4%ba%86.mp3",
           "description": {
-            "zh": "我已經受夠你們這群狗狗了，我受GO了"
+            "zh": "我已經受夠你們這群狗狗了，我受 GO 了"
           }
         },
         {
-          "name": "woconglaidoubujuedehuatukaixinguo",
+          "name": "6766a0528ebfba3c9dc4ff7c5fc7f6f0",
           "path": "https://r2.konnokai.me/998-voice-button/mygo/%e6%88%91%e5%be%9e%e4%be%86%e9%83%bd%e4%b8%8d%e8%a6%ba%e5%be%97%e7%95%ab%e5%9c%96%e9%96%8b%e5%bf%83%e9%81%8e.mp3",
           "description": {
             "zh": "我從來都不覺得畫圖開心過"
           }
         },
         {
-          "name": "woaimuxurongla",
+          "name": "1eda7bf5f82cc60fc29b12ed0be51ea6",
           "path": "https://r2.konnokai.me/998-voice-button/mygo/%e6%88%91%e6%84%9b%e6%85%95%e8%99%9b%e6%a6%ae%e5%95%a6.mp3",
           "description": {
             "zh": "我愛慕虛榮啦"
           }
         },
         {
-          "name": "shiyouzenyang",
+          "name": "b8e910cd745c49343aa561c734a09fc8",
           "path": "https://r2.konnokai.me/998-voice-button/mygo/%e6%98%af%e5%8f%88%e6%80%8e%e6%a8%a3.mp3",
           "description": {
             "zh": "是又怎樣"
           }
         },
         {
-          "name": "mannaozidouzhiyouxiangdaozijini",
+          "name": "0452e337dcdf11407c0159db13974cca",
           "path": "https://r2.konnokai.me/998-voice-button/mygo/%e6%bb%bf%e8%85%a6%e5%ad%90%e9%83%bd%e5%8f%aa%e6%9c%89%e6%83%b3%e5%88%b0%e8%87%aa%e5%b7%b1%e5%91%a2.mp3",
           "description": {
             "zh": "滿腦子都只有想到自己呢"
           }
         },
         {
-          "name": "huanzhenshigaogaozaishangni",
+          "name": "9636bca001eaaf225a9e48cd3ab59c3a",
           "path": "https://r2.konnokai.me/998-voice-button/mygo/%e9%82%84%e7%9c%9f%e6%98%af%e9%ab%98%e9%ab%98%e5%9c%a8%e4%b8%8a%e5%91%a2.mp3",
           "description": {
             "zh": "還真是高高在上呢"
@@ -565,245 +628,252 @@
       },
       "voice_list": [
         {
-          "name": "HUH",
+          "name": "9ff83a9c405b5a4887543bed6aad9ade",
           "path": "https://r2.konnokai.me/998-voice-button/noise/HUH.mp3",
           "description": {
             "zh": "HUH"
           }
         },
         {
-          "name": "RRRRR",
+          "name": "f3a16cf106f44d743b1250e751cfb77d",
           "path": "https://r2.konnokai.me/998-voice-button/noise/RRRRR.mp3",
           "description": {
             "zh": "RRRRR"
           }
         },
         {
-          "name": "RRRRRRR",
+          "name": "44e6b4c5d07e5212dab2074e738db5bc",
           "path": "https://r2.konnokai.me/998-voice-button/noise/RRRRRRR.mp3",
           "description": {
             "zh": "RRRRRRR"
           }
         },
         {
-          "name": "WTFWTFWTF",
+          "name": "1d5e843524c269d5402ad5d7f8ceee74",
           "path": "https://r2.konnokai.me/998-voice-button/noise/WTFWTFWTF.mp3",
           "description": {
             "zh": "WTFWTFWTF"
           }
         },
         {
-          "name": "yiyaha",
+          "name": "890b3be8972241ed91a79c7da6db9d95",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e4%bc%8a%e5%91%80%e5%93%88.mp3",
           "description": {
             "zh": "伊呀哈"
           }
         },
         {
-          "name": "shenlanyao",
+          "name": "51272f946a2e58dfc5c281dddd187d23",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e4%bc%b8%e6%87%b6%e8%85%b0.mp3",
           "description": {
             "zh": "伸懶腰"
           }
         },
         {
-          "name": "ehupaoxiao",
+          "name": "f99d1581aeeadee31b7507d144d592ab",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e5%8e%84%e7%8b%90%e5%92%86%e5%98%af.mp3",
           "description": {
             "zh": "厄狐咆嘯"
           }
         },
         {
-          "name": "yaha~~~~",
+          "name": "22658702248b28435de6cbfb7dcd0727",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e5%91%80%e5%93%88%7e%7e%7e%7e.mp3",
           "description": {
             "zh": "呀哈~~~~"
           }
         },
         {
-          "name": "aihao",
+          "name": "8ca14f356553614660e37fe3c9a3b411",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e5%93%80%e8%99%9f.mp3",
           "description": {
             "zh": "哀號"
           }
         },
         {
-          "name": "ha⭣ha⭡",
+          "name": "5d8866d3b79880946c08461492ac2c78",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e5%93%88%e2%ad%a3%e5%93%88%e2%ad%a1.mp3",
           "description": {
             "zh": "哈⭣哈⭡"
           }
         },
         {
-          "name": "aha",
+          "name": "7a18da9f2777bdbe1c90283bd0e7db45",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e5%95%8a%e5%93%88.mp3",
           "description": {
             "zh": "啊哈"
           }
         },
         {
-          "name": "awowangjiwodemima-RRRR",
+          "name": "3bb07c2ff2a97806d731b8d45af0071f",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e5%95%8a%e6%88%91%e5%bf%98%e8%a8%98%e6%88%91%e7%9a%84%e5%af%86%e7%a2%bc-RRRR.mp3",
           "description": {
             "zh": "啊我忘記我的密碼 RRRR"
           }
         },
         {
-          "name": "ng~",
+          "name": "8585cbfb39574d8e214c4ffd36618d26",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e5%97%af%7e.mp3",
           "description": {
             "zh": "嗯~"
           }
         },
         {
-          "name": "aowu~aowu~",
+          "name": "1f3608a155b10d6e5e49370cf363d411",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e5%97%b7%e5%97%9a%7e%e5%97%b7%e5%97%9a%7e.mp3",
           "description": {
             "zh": "嗷嗚~嗷嗚~"
           }
         },
         {
-          "name": "pulu~pulu~pulu~",
+          "name": "3b9578a25b845e4ea39799abe7fbbb09",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e5%99%97%e5%9a%95%7e%e5%99%97%e5%9a%95%7e%e5%99%97%e5%9a%95%7e.mp3",
           "description": {
             "zh": "噗嚕~噗嚕~噗嚕~"
           }
         },
         {
-          "name": "en⭣en⭡",
+          "name": "dc621451e0848db7121e1f6cd4c71209",
+          "path": "https://r2.konnokai.me/998-voice-button/noise/%e5%bd%88%e5%98%b4%e5%94%87.mp3",
+          "description": {
+            "zh": "彈嘴唇"
+          }
+        },
+        {
+          "name": "0f4dea7b9f67d8eaefb9c6bc90bee61b",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%81%a9%e2%ad%a3%e6%81%a9%e2%ad%a1.mp3",
           "description": {
             "zh": "恩⭣恩⭡"
           }
         },
         {
-          "name": "yiyibumingdejiaosheng",
+          "name": "2e0216977e10235fd80f95cbed8547e3",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%84%8f%e7%be%a9%e4%b8%8d%e6%98%8e%e7%9a%84%e5%8f%ab%e8%81%b2.mp3",
           "description": {
             "zh": "意義不明的叫聲"
           }
         },
         {
-          "name": "dapenti",
+          "name": "3d496e3c5c2aff3042d98ad8a5e17d88",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%89%93%e5%99%b4%e5%9a%8f.mp3",
           "description": {
             "zh": "打噴嚏"
           }
         },
         {
-          "name": "dapenti2",
+          "name": "da0bc237eb039173dc2ed361d8a51e45",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%89%93%e5%99%b4%e5%9a%8f2.mp3",
           "description": {
             "zh": "打噴嚏2"
           }
         },
         {
-          "name": "baotouhuxian",
+          "name": "1c7ac3c56c08c5b3d5d4250ce604bab6",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%8a%b1%e9%a0%ad%e7%8b%90%e4%bb%99.mp3",
           "description": {
             "zh": "抱頭狐仙"
           }
         },
         {
-          "name": "qiaoyixiazhuozijiuhuifachujiutaodeshengyin",
+          "name": "c23ab997e08bac444f9aa68d06e15a60",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%95%b2%e4%b8%80%e4%b8%8b%e6%a1%8c%e5%ad%90%e5%b0%b1%e6%9c%83%e7%99%bc%e5%87%ba%e7%8e%96%e6%a1%83%e7%9a%84%e8%81%b2%e9%9f%b3.mp3",
           "description": {
             "zh": "敲一下桌子就會發出玖桃的聲音"
           }
         },
         {
-          "name": "e^hei",
+          "name": "9fdc32ed835cd3cf2be6b9c3bfa227b3",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%ac%b8%e5%98%bf.mp3",
           "description": {
             "zh": "欸嘿"
           }
         },
         {
-          "name": "wangwangwangwangwangwangwangwangwangwang_wangwang",
+          "name": "fb5312190505cb60ad939c4f74bac1f5",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%b1%aa%e6%b1%aa%e6%b1%aa%e6%b1%aa%e6%b1%aa%e6%b1%aa%e6%b1%aa%e6%b1%aa%e6%b1%aa%e6%b1%aa_%e6%b1%aa%e6%b1%aa.mp3",
           "description": {
             "zh": "汪汪汪汪汪汪汪汪汪汪，汪汪"
           }
         },
         {
-          "name": "wangwanghunjian",
+          "name": "ec632993ee72aecf3c33ec3c3e2abc4c",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%b1%aa%e6%b1%aa%e6%b7%b7%e5%89%aa.mp3",
           "description": {
             "zh": "汪汪混剪"
           }
         },
         {
-          "name": "meiyoushenlanyaodeshenlanyao",
+          "name": "1d7724ca191ae26b96b2e580387a8f30",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%b2%92%e6%9c%89%e4%bc%b8%e6%87%b6%e8%85%b0%e7%9a%84%e4%bc%b8%e6%87%b6%e8%85%b0.mp3",
           "description": {
             "zh": "沒有伸懶腰的伸懶腰"
           }
         },
         {
-          "name": "bobangbangbangbang",
+          "name": "75f3ef1ce5b62a44718b4d0925c888cb",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e6%b3%a2%e9%82%a6%e9%82%a6%e9%82%a6%e9%82%a6.mp3",
           "description": {
             "zh": "波邦邦邦邦"
           }
         },
         {
-          "name": "wusaqi-1",
+          "name": "ce64c8857babdd1bbbd2ef692c26345c",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e7%83%8f%e8%96%a9%e5%a5%87-1.mp3",
           "description": {
             "zh": "烏薩奇 1"
           }
         },
         {
-          "name": "wusaqi-2",
+          "name": "12999fdb3a60648b150e45893d5628b5",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e7%83%8f%e8%96%a9%e5%a5%87-2.mp3",
           "description": {
             "zh": "烏薩奇 2"
           }
         },
         {
-          "name": "wusaqi-ha",
+          "name": "bfa7b729de2491cdae68af3d4b50c03c",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e7%83%8f%e8%96%a9%e5%a5%87-%e8%9b%a4.mp3",
           "description": {
             "zh": "烏薩奇 蛤"
           }
         },
         {
-          "name": "hulijiao",
+          "name": "7b87eb7d3f552a1a374dde3dd0cf9395",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e7%8b%90%e7%8b%b8%e5%8f%ab.mp3",
           "description": {
             "zh": "狐狸叫"
           }
         },
         {
-          "name": "hulixiao",
+          "name": "ebecb09716c921224d02bd4452e7ea66",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e7%8b%90%e7%8b%b8%e7%ac%91.mp3",
           "description": {
             "zh": "狐狸笑"
           }
         },
         {
-          "name": "jiubamiao",
+          "name": "36e83c308878ce17cfc173dde34aca1d",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e7%8e%96%e5%b7%b4%e5%96%b5.mp3",
           "description": {
             "zh": "玖巴喵"
           }
         },
         {
-          "name": "jiubapaijiche",
+          "name": "b7747a3986eb8b320491ba5a5c2b1d53",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e7%8e%96%e5%b7%b4%e7%89%8c%e6%a9%9f%e8%bb%8a.mp3",
           "description": {
             "zh": "玖巴牌機車"
           }
         },
         {
-          "name": "feichangjiujiedejiujiuba",
+          "name": "921f3473b119e8cf66fdc439af0af654",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e9%9d%9e%e5%b8%b8%e7%b3%be%e7%b5%90%e7%9a%84%e7%8e%96%e7%8e%96%e5%b7%b4.mp3",
           "description": {
             "zh": "非常糾結的玖玖巴"
           }
         },
         {
-          "name": "mowulierenkaorou",
+          "name": "deedd7b9c2b2018b04fccb8ea8729148",
           "path": "https://r2.konnokai.me/998-voice-button/noise/%e9%ad%94%e7%89%a9%e7%8d%b5%e4%ba%ba%e7%83%a4%e8%82%89.mp3",
           "description": {
             "zh": "魔物獵人烤肉"
@@ -818,49 +888,49 @@
       },
       "voice_list": [
         {
-          "name": "_hengge_-xinshijifuyinzhanshi",
+          "name": "add3cb8fc3baab540ca8fe11622f106e",
           "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/%28%e5%93%bc%e6%ad%8c%29-%e6%96%b0%e4%b8%96%e7%b4%80%e7%a6%8f%e9%9f%b3%e6%88%b0%e5%a3%ab.mp3",
           "description": {
             "zh": "(哼歌) 新世紀福音戰士"
           }
         },
         {
-          "name": "_woyaoniai_-nishuoniaiwozixinzhongdaiyoufengkuangdehuoyan_shierxiuqiedemirenlianpang_bu-neibushiwo_wozhishigeaiqingdepiantu_shiaiqingdexiaohuaidan",
+          "name": "414e80869d4012ed2f9f3bbf5156d53b",
           "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/%28%e6%88%91%e8%a6%81%e4%bd%a0%e6%84%9b%29-%e4%bd%a0%e8%aa%aa%e4%bd%a0%e6%84%9b%e6%88%91%e8%87%aa%e4%bf%a1%e4%b8%ad%e5%b8%b6%e6%9c%89%e7%98%8b%e7%8b%82%e7%9a%84%e7%81%ab%e7%84%b0_%e6%99%82%e8%80%8c%e7%be%9e%e6%80%af%e7%9a%84%e8%bf%b7%e4%ba%ba%e8%87%89%e9%be%90_%e4%b8%8d-%e9%82%a3%e4%b8%8d%e6%98%af%e6%88%91_%e6%88%91%e5%8f%aa%e6%98%af%e5%80%8b%e6%84%9b%e6%83%85%e7%9a%84%e9%a8%99%e5%be%92_%e6%98%af%e6%84%9b%e6%83%85%e7%9a%84%e5%b0%8f%e5%a3%9e%e8%9b%8b.mp3",
           "description": {
             "zh": "(我要你愛) 你說你愛我自信中帶有瘋狂的火焰，時而羞怯的迷人臉龐，不 那不是我，我只是個愛情的騙徒，是愛情的小壞蛋"
           }
         },
         {
-          "name": "_wohuannianqing_-geiwoyipingjiuzaigeiwoyizhiyan_shuozoujiuzouwomeiyoushijian",
+          "name": "c10fe6722a084724b0841b71076ba1b6",
           "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/%28%e6%88%91%e9%82%84%e5%b9%b4%e8%bc%95%29-%e7%b5%a6%e6%88%91%e4%b8%80%e7%93%b6%e9%85%92%e5%86%8d%e7%b5%a6%e6%88%91%e4%b8%80%e6%94%af%e8%8f%b8_%e8%aa%aa%e8%b5%b0%e5%b0%b1%e8%b5%b0%e6%88%91%e6%b2%92%e6%9c%89%e6%99%82%e9%96%93.mp3",
           "description": {
             "zh": "(我還年輕) 給我一瓶酒再給我一支菸，說走就走我沒有時間"
           }
         },
         {
-          "name": "mogu",
+          "name": "19a205028ca56f003cb905d4954f618c",
           "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/mogu.mp3",
           "description": {
             "zh": "mogu"
           }
         },
         {
-          "name": "おniangyang-it's-time-to-go-to-bed",
+          "name": "547ed9c20e2dfd57478f42f40fa1e55a",
           "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/%e3%81%8a%e5%ac%a2%e6%a7%98-it%27s-time-to-go-to-bed.mp3",
           "description": {
             "zh": "お嬢様 it's time to go to bed"
           }
         },
         {
-          "name": "woaijiujiubalaoshi",
+          "name": "74c46a9c484629bfd9633c6a96d0ec87",
           "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/%e6%88%91%e6%84%9b%e7%8e%96%e7%8e%96%e5%b7%b4%e8%80%81%e5%b8%ab.mp3",
           "description": {
             "zh": "我愛玖玖巴老師"
           }
         },
         {
-          "name": "jiujiubajiubajiubahushidandan",
+          "name": "1178aaaaa31b067c50498cc00969a834",
           "path": "https://r2.konnokai.me/998-voice-button/song_lyrics/%e7%8e%96%e7%8e%96%e5%b7%b4%e7%8e%96%e5%b7%b4%e7%8e%96%e5%b7%b4%e8%99%8e%e8%a6%96%e7%9c%88%e7%9c%88.mp3",
           "description": {
             "zh": "玖玖巴玖巴玖巴虎視眈眈"
