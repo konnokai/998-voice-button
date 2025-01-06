@@ -30,7 +30,7 @@
       </v-list>
       <v-divider />
       <v-list-item
-        v-for="(item, i) in $t('navigator.anthorButton')"
+        v-for="(item, i) in $t('navigator.anotherButton')"
         :key="i"
         :href="item.to"
         target="_blank"
