@@ -31,19 +31,36 @@
   "navigator": {
     "items": [
       {
-        "icon": "/img/twitch-fill.svg",
+        "icon": "/img/twitch.svg",
         "title": "Twitch",
         "to": "https://twitch.tv/998rrr"
+      },
+      {
+        "icon": "/img/twitter-fill.svg",
+        "title": "Twitter",
+        "to": "https://twitter.com/998rrr_"
       },
       {
         "icon": "/img/youtube-fill.svg",
         "title": "YouTube",
         "to": "https://www.youtube.com/channel/UCs5FNYPHeZz5f7N1BDExxfg"
+      }
+    ],
+    "anthorButton": [
+      {
+        "icon": "/img/rei-icon.svg",
+        "title": "小澪按鈕",
+        "to": "https://rei-button.konnokai.me"
       },
       {
-        "icon": "/img/twitter-fill.svg",
-        "title": "Twitter",
-        "to": "https://twitter.com/_998rrr_"
+        "icon": "/img/kirali-icon.svg",
+        "title": "阿基按鈕",
+        "to": "https://kirali-button.konnokai.me"
+      },
+      {
+        "icon": "/img/yuzumi-icon.svg",
+        "title": "租咪按鈕",
+        "to": "https://yuzumi-button.konnokai.me"
       }
     ]
   }

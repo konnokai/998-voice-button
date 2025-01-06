@@ -1,15 +1,6 @@
 <template>
   <v-app>
     <v-navigation-drawer v-model="drawer" :mobile-breakpoint="1024" class="elevation-3" fixed app>
-      <!--
-      <template v-slot:img>
-        <v-img />
-        <div
-          class="nav-darwer-overlay"
-          :class="$vuetify.theme.dark ? 'nav-darwer-overlay-dark' : 'nav-darwer-overlay-light'"
-        />
-      </template>
-      -->
       <v-list style="padding-top: 0;">
         <v-list-item to="/" router exact dense>
           <v-list-item-action>
@@ -38,18 +29,25 @@
         </v-list-item>
       </v-list>
       <v-divider />
+      <v-list-item
+        v-for="(item, i) in $t('navigator.anthorButton')"
+        :key="i"
+        :href="item.to"
+        target="_blank"
+        rel="noreferrer"
+        router
+        exact
+        dense
+      >
+        <v-list-item-action>
+          <v-img :src="item.icon" style="width: 24px;" />
+        </v-list-item-action>
+        <v-list-item-content>
+          <v-list-item-title v-text="item.title" />
+        </v-list-item-content>
+      </v-list-item>
+      <v-divider />
       <v-list>
-        <!-- 友情链接 -->
-        <!--
-        <v-list-item dense to="/links" router exact>
-          <v-list-item-action>
-            <v-icon>{{ icons.play_list_star }}</v-icon>
-          </v-list-item-action>
-          <v-list-item-content>
-            <v-list-item-title>{{ $t('site.links') }}</v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-        -->
         <v-list-item dense to="/about" router exact>
           <v-list-item-action>
             <v-icon>{{ icons.code_tags }}</v-icon>
@@ -60,21 +58,21 @@
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
-    <v-app-bar dense class="primary white--text" app>
+    <v-app-bar dense class="primary title-text--text" app>
       <v-app-bar-nav-icon class="white--text" @click.stop="drawer = !drawer" />
       <v-toolbar-title v-text="$t('site.title')" />
       <v-img src="/icon.png" style="max-width: 24px; margin-left: 6px;" />
       <v-spacer />
       <v-tooltip bottom>
         <template v-slot:activator="{ on }">
-          <v-btn icon class="white--text" @click="switch_dark()" v-on="on">
+          <v-btn icon class="title-text--text" @click="switch_dark()" v-on="on">
             <v-icon>{{ icons.brightness }}</v-icon>
           </v-btn>
         </template>
         <span>{{ $t('site.switch_dark_mode') }}</span>
       </v-tooltip>
     </v-app-bar>
-    <v-main>
+    <v-main class="background">
       <v-container class="page">
         <nuxt />
       </v-container>
@@ -110,6 +108,7 @@
 <style lang="scss">
 $blur-function: blur(3px);
 .v-application {
+  background: rgb(var(--v-theme-background));
   html[lang='zh'] & {
     font-family: $zh-body-fonts;
   }
@@ -149,7 +148,7 @@ a {
   padding-bottom: 150px;
 }
 .footer {
-  margin-top: -150px;
+  margin-top: -76px;
 }
 </style>
 
