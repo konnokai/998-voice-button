@@ -7,6 +7,13 @@
       },
       "voice_list": [
         {
+          "name": "af372691dc7bb11a92580cc518bef4f5",
+          "path": "566/烏拉拉_跟大家說掰掰.mp3",
+          "description": {
+            "zh": "烏拉拉~ 跟大家說掰掰"
+          }
+        },
+        {
           "name": "bdf788161c6b68ddadc848a9e10a88be",
           "path": "566/烏拉拉你是甚麼貓_母貓.mp3",
           "description": {
@@ -25,6 +32,84 @@
           "path": "566/飯飯.mp3",
           "description": {
             "zh": "飯飯"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "cry_lyrics",
+      "group_description": {
+        "zh": "哀號類台詞"
+      },
+      "voice_list": [
+        {
+          "name": "51e68472d8fa62b1e1159d1692927f7e",
+          "path": "cry_lyrics/啊我忘記我的密碼-RRRR.mp3",
+          "description": {
+            "zh": "啊我忘記我的密碼 RRRR"
+          }
+        },
+        {
+          "name": "77b87dc11e84a54985c5af9e88150c51",
+          "path": "cry_lyrics/好麻煩噢.mp3",
+          "description": {
+            "zh": "好麻煩噢"
+          }
+        },
+        {
+          "name": "e401c7952906ac2a182e4a43c98579e1",
+          "path": "cry_lyrics/對CF的無能狂怒.mp3",
+          "description": {
+            "zh": "不要 不要! 不可以! 把你那疊委託單給我拿走，沒有甚麼新動作跟向下相容啦，不要再剝奪我的遊戲時間啦，阿!!!!!!"
+          }
+        },
+        {
+          "name": "c25802b4fa47ef7bab1ffa267d323885",
+          "path": "cry_lyrics/工作_好累噢.mp3",
+          "description": {
+            "zh": "工作...好累噢 (小聲)"
+          }
+        },
+        {
+          "name": "0fe3edc230fef54a42fd81c71c485d6f",
+          "path": "cry_lyrics/希夫_我有檔期了_要不要新衣裝.mp3",
+          "description": {
+            "zh": "希~ 夫~ 我有檔期了，要不要~ 新衣裝~ (笑)"
+          }
+        },
+        {
+          "name": "00601db35ef39d8182c2d103ab36b53a",
+          "path": "cry_lyrics/愛會消失_對嗎.mp3",
+          "description": {
+            "zh": "愛會消失，對嗎? 愛會消失，但...稿子不會"
+          }
+        },
+        {
+          "name": "a9e73baba397f7161a7967100665d151",
+          "path": "cry_lyrics/我是998_現在被關在地下室_待我出地下室之日.mp3",
+          "description": {
+            "zh": "我是...998，現在被關在地下室，只要有委託，就能被放出來，待我出地下室之日"
+          }
+        },
+        {
+          "name": "5cfada00ded6491d778b3dfc42efd670",
+          "path": "cry_lyrics/玖玖巴老師_我真的很努力_你怎麼這樣子說.mp3",
+          "description": {
+            "zh": "玖玖巴老師! 我真的很努力，你怎麼這樣子說"
+          }
+        },
+        {
+          "name": "c534177854dbbf8ac1c117d79f121bf3",
+          "path": "cry_lyrics/畫畫好好玩_畫畫真的是太快樂了.mp3",
+          "description": {
+            "zh": "畫畫好好玩，畫畫真的是太快樂了 (棒讀)"
+          }
+        },
+        {
+          "name": "fc0f8c252042f6cb02609773c8ef6f68",
+          "path": "cry_lyrics/這張圖好難畫_TMD-誰設計的.mp3",
+          "description": {
+            "zh": "這張圖好難畫...TMD 誰設計的"
           }
         }
       ]
@@ -57,10 +142,31 @@
           }
         },
         {
+          "name": "b497d0d42433aac7b18b5af839052c44",
+          "path": "curse_lyrics/你們這群垃圾_過來給我踩一下.mp3",
+          "description": {
+            "zh": "欸，你們這群垃圾，過來給我踩一下"
+          }
+        },
+        {
+          "name": "74fbdbaa4c8921fabfb7f9bc47876784",
+          "path": "curse_lyrics/你們這群大DD色狗_給我跪下.mp3",
+          "description": {
+            "zh": "你們這群大 DD 色狗，給我跪下!"
+          }
+        },
+        {
+          "name": "ef727f0eb7c83ee04c2c823006475d92",
+          "path": "curse_lyrics/你們這群小笨狗_害我好丟臉.mp3",
+          "description": {
+            "zh": "你們這群小笨狗害我好丟臉"
+          }
+        },
+        {
           "name": "f6d93258bcb7f66cb36fd0d6edc4139d",
           "path": "curse_lyrics/你們這群臭狗狗.mp3",
           "description": {
-            "zh": "你們這群臭狗狗"
+            "zh": "你們這群... 臭狗狗"
           }
         },
         {
@@ -113,6 +219,13 @@
           }
         },
         {
+          "name": "c53b573b51d50fcc5677f1ce219e786b",
+          "path": "curse_lyrics/你真的像隻狗狗一樣可愛呢.mp3",
+          "description": {
+            "zh": "你真的像隻狗狗一樣可愛呢"
+          }
+        },
+        {
           "name": "dec1fe3d985ea341ab7663c80c774169",
           "path": "curse_lyrics/你給的小奇點也太少了吧_才一百點_這算有給嗎.mp3",
           "description": {
@@ -145,6 +258,13 @@
           "path": "curse_lyrics/哭噢_快給我滾去睡覺_不要在這邊五四三了_走開走開走開走開_滾_還看甚麼看屁噢_亂七八糟神經病.mp3",
           "description": {
             "zh": "哭噢，快給我滾去睡覺，不要在這邊五四三了，走開走開走開走開，滾! 還看甚麼看屁噢，亂七八糟神經病"
+          }
+        },
+        {
+          "name": "b7efe97ed517a766916e4c96fc6f0137",
+          "path": "curse_lyrics/喂_你這個條臭狗.mp3",
+          "description": {
+            "zh": "喂! 你這個條臭狗，還不明白嗎? 你只不過是條狗而已，除了聽我的命令，其他甚麼都不用想吧? 來~ 像隻狗一樣乖乖聽話，如果不乖的話... 會有懲罰噢"
           }
         },
         {
@@ -246,6 +366,13 @@
           }
         },
         {
+          "name": "cf66a92838c56325105eba776a13cf99",
+          "path": "curse_lyrics/看來我得好好地把你們關在地下室調教了_你們說對吧.mp3",
+          "description": {
+            "zh": "我就知道，我不該讓你們這群玖桃有手打字，看看你們這群小笨狗都給我打些甚麼台詞，給一堆亂七八糟的東西，是不是沒有被皮鞭打過，是不是都教育的還不夠呢，看來我得好好地把你們關在地下室多多調教了，你們說對吧?"
+          }
+        },
+        {
           "name": "90579cc70d06ab0ca70a894344c617e7",
           "path": "curse_lyrics/神經病哦.mp3",
           "description": {
@@ -260,10 +387,24 @@
           }
         },
         {
+          "name": "791dc17c1aa932d9f338f68c6134d5e3",
+          "path": "curse_lyrics/要繼續當我的狗狗噢.mp3",
+          "description": {
+            "zh": "你們就這麼喜歡被我踩在腳下嗎? 那倒是叫幾聲來聽聽阿。乖~ 要繼續...當我的狗狗噢"
+          }
+        },
+        {
           "name": "d253482e19ca9d85fb040759bb535e1a",
           "path": "curse_lyrics/踩死你們這群小王八蛋.mp3",
           "description": {
             "zh": "踩死你們這群小王八蛋"
+          }
+        },
+        {
+          "name": "cc2ea4971d54802310648ed0064a1255",
+          "path": "curse_lyrics/這麼清楚的台_怎麼會有你這骯髒的玖桃阿.mp3",
+          "description": {
+            "zh": "這麼清楚的台，怎麼會有你這麼骯髒的玖桃阿"
           }
         },
         {
@@ -285,6 +426,13 @@
           "path": "curse_lyrics/釘宮三連.mp3",
           "description": {
             "zh": "釘宮三連"
+          }
+        },
+        {
+          "name": "e8bbd5a139730d674cdc65a395582813",
+          "path": "curse_lyrics/麗澪學姊_還在一個人開台哦_太可憐了吧.mp3",
+          "description": {
+            "zh": "麗澪學姊~ 還在一個人開台哦? 太可憐了吧! (我是被逼的)"
           }
         }
       ]
@@ -324,6 +472,13 @@
           }
         },
         {
+          "name": "968fe5812d4acc81adaaf39c48187db6",
+          "path": "headphone_recommand/你問玖玖巴為什麼要穿黑絲.mp3",
+          "description": {
+            "zh": "你說...我為什麼要穿黑絲? 肯定是因為我想穿阿，怎麼可能...是為了滿足一群玖桃的慾望對吧，對吧?"
+          }
+        },
+        {
           "name": "0abdd3afbed9f83d3ff4017bb57167d7",
           "path": "headphone_recommand/好了嗎_好了嗎.mp3",
           "description": {
@@ -336,6 +491,20 @@
           "description": {
             "zh": "明天...停止上班上課噢"
           }
+        },
+        {
+          "name": "68de862f722059aa1b9b96ac148e3605",
+          "path": "headphone_recommand/玖桃們_今天又去哪裡DD了呀.mp3",
+          "description": {
+            "zh": "哎呀...玖桃們，今天又去哪裡 DD 了呀，恩? 告訴我嘛"
+          }
+        },
+        {
+          "name": "7647eb06775372430bcbb28cca4ed72f",
+          "path": "headphone_recommand/真是個壞孩子.mp3",
+          "description": {
+            "zh": "哎呀，竟然已經興奮起來了，真是個壞孩子。沒關係，我會好好懲罰你的"
+          }
         }
       ]
     },
@@ -345,6 +514,27 @@
         "zh": "雜項台詞"
       },
       "voice_list": [
+        {
+          "name": "29ee62626dfbbb8b8c1e1ffa02db19eb",
+          "path": "misc_lyrics/CF不是男V阿.mp3",
+          "description": {
+            "zh": "CF 甚麼，CF 不是男 V 阿"
+          }
+        },
+        {
+          "name": "9316b4e211a636fef9f00d732984e7f7",
+          "path": "misc_lyrics/CF我想畫DLC_我一點都不想.mp3",
+          "description": {
+            "zh": "CF...我想畫...DLC。我一點都不想!!!"
+          }
+        },
+        {
+          "name": "0f15704ba92cf1d6d90eec4ec89daee5",
+          "path": "misc_lyrics/CF要畫新衣裝_161要DLC_烟花要新皮_來都來.mp3",
+          "description": {
+            "zh": "CF 要畫新衣裝? 161 要畫 DLC? 烟花要委託新皮? 來都來，我還嫌畫不夠! (此台詞並非 998 真實的想法)"
+          }
+        },
         {
           "name": "34f1d61970d27e406cd3114fad3624c0",
           "path": "misc_lyrics/不努力就會成為玖玖巴的玩物_關你屁事我樂意.mp3",
@@ -371,6 +561,27 @@
           "path": "misc_lyrics/今年_18_歲.mp3",
           "description": {
             "zh": "今~ 年~ 1~ 8~ 歲~"
+          }
+        },
+        {
+          "name": "8b908584b7db66b938134ccbe455f851",
+          "path": "misc_lyrics/低音_你也看玖桃噢_汪汪.mp3",
+          "description": {
+            "zh": "(低音) 你也看玖桃噢，汪汪"
+          }
+        },
+        {
+          "name": "c67a40afc44dda446494b945c4100f62",
+          "path": "misc_lyrics/低音_漂亮的大姊姊.mp3",
+          "description": {
+            "zh": "(低音) 漂亮的大姊姊"
+          }
+        },
+        {
+          "name": "c939f32c9e92233ac42ab1476bef16e6",
+          "path": "misc_lyrics/你要出多少.mp3",
+          "description": {
+            "zh": "你要出多少"
           }
         },
         {
@@ -416,13 +627,6 @@
           }
         },
         {
-          "name": "77b87dc11e84a54985c5af9e88150c51",
-          "path": "misc_lyrics/好麻煩噢.mp3",
-          "description": {
-            "zh": "好麻煩噢"
-          }
-        },
-        {
           "name": "2314dec7c6f033d9328b97c42560a67a",
           "path": "misc_lyrics/完蛋了語音包是不是又要增加了阿.mp3",
           "description": {
@@ -430,17 +634,31 @@
           }
         },
         {
-          "name": "c25802b4fa47ef7bab1ffa267d323885",
-          "path": "misc_lyrics/工作_好累噢.mp3",
+          "name": "b8a6866b64fb188a0730fba8e75799f8",
+          "path": "misc_lyrics/微笑小玖巴.mp3",
           "description": {
-            "zh": "工作...好累噢 (小聲)"
+            "zh": "微笑小玖巴☆讓你的心也跟著微笑，傳遞笑容的玖玖巴，愛玖玖巴就要記住玖玖巴哦，にっこにっこにー！"
           }
         },
         {
-          "name": "00601db35ef39d8182c2d103ab36b53a",
-          "path": "misc_lyrics/愛會消失_對嗎.mp3",
+          "name": "1e52878685d4e27ad9fec17815d8774e",
+          "path": "misc_lyrics/想不想多換一副耳膜阿.mp3",
           "description": {
-            "zh": "愛會消失，對嗎? 愛會消失，但...稿子不會"
+            "zh": "想不想多換一副耳膜阿"
+          }
+        },
+        {
+          "name": "ca42cfaa87953575117ae8c8226a9661",
+          "path": "misc_lyrics/想要發委託嗎.mp3",
+          "description": {
+            "zh": "想要發委託嗎? 可以呦。如果是你的話...再多的委託，我都會接下來的 (此台詞並非 998 真實的想法)"
+          }
+        },
+        {
+          "name": "3d17ec8a8d1dbdc86d6e685df69cce74",
+          "path": "misc_lyrics/我喜歡畫畫跟_L2D_眼神死.mp3",
+          "description": {
+            "zh": "我喜歡畫畫跟 L2D (眼神死)。有沒有感受到我的誠意了 (並沒有)"
           }
         },
         {
@@ -486,6 +704,13 @@
           }
         },
         {
+          "name": "572afee6d00d6efb7b23ff2a1aca9e82",
+          "path": "misc_lyrics/把耳膜還來.mp3",
+          "description": {
+            "zh": "把耳膜還來"
+          }
+        },
+        {
           "name": "2674ce5bc653d4f090a68b8aa9ca810e",
           "path": "misc_lyrics/抓他_抓他.mp3",
           "description": {
@@ -497,6 +722,13 @@
           "path": "misc_lyrics/斯巴拉西.mp3",
           "description": {
             "zh": "斯巴拉西..."
+          }
+        },
+        {
+          "name": "cab4a8fd5e9c1c899667449bfd290761",
+          "path": "misc_lyrics/日文版新婚三問.mp3",
+          "description": {
+            "zh": "日文版新婚三問"
           }
         },
         {
@@ -528,10 +760,10 @@
           }
         },
         {
-          "name": "5cfada00ded6491d778b3dfc42efd670",
-          "path": "misc_lyrics/玖玖巴老師_我真的很努力_你怎麼這樣子說.mp3",
+          "name": "c27ec67d74f717690ab1582ea2d5e2a5",
+          "path": "misc_lyrics/玖玖巴要把你_吃乾嘛淨.mp3",
           "description": {
-            "zh": "玖玖巴老師! 我真的很努力，你怎麼這樣子說"
+            "zh": "你想成為我的盤中飧嗎? (阿姆) 味道還不錯嘛，做好心理準備了嗎? 我要把你...吃 乾 嘛 淨"
           }
         },
         {
@@ -556,10 +788,24 @@
           }
         },
         {
+          "name": "d1933134417edb1170aa1506c341dd4d",
+          "path": "misc_lyrics/統治世界2.mp3",
+          "description": {
+            "zh": "統治世界 2"
+          }
+        },
+        {
           "name": "04f7b3b266999e91b4c02a799c096878",
           "path": "misc_lyrics/繪圖板蛋雕_不畫圖了_蛋雕.mp3",
           "description": {
             "zh": "繪圖板蛋雕 (笑)，不畫圖了，蛋雕!"
+          }
+        },
+        {
+          "name": "a9d5b45fd87d8732cf650b95602e5719",
+          "path": "misc_lyrics/臭玖桃_我才沒有喜歡你們呢.mp3",
+          "description": {
+            "zh": "臭玖桃，我才沒有喜歡你們呢! 只是你們如果不來看直播聊聊天，大概會很無聊吧，覺得有點寂寞而已，不要想太多了"
           }
         },
         {
@@ -577,6 +823,13 @@
           }
         },
         {
+          "name": "46502479236a9018e406356bf85eb1e3",
+          "path": "misc_lyrics/記住了嗎_親愛的_變身國王梗.mp3",
+          "description": {
+            "zh": "(變身國王) 三份穿褲子的豬，一盤熱空氣，一份祖母的早餐籃，把牛變成鱒魚，知道了"
+          }
+        },
+        {
           "name": "e5529e3237dfa8ec4bed1c728da2a2e7",
           "path": "misc_lyrics/請不要玩弄玖玖巴-謝謝_只有玖玖巴可以玩弄你們.mp3",
           "description": {
@@ -584,10 +837,10 @@
           }
         },
         {
-          "name": "fc0f8c252042f6cb02609773c8ef6f68",
-          "path": "misc_lyrics/這張圖好難畫_TMD-誰設計的.mp3",
+          "name": "768d607014697c6321a633fba73dc3de",
+          "path": "misc_lyrics/讓我的心_Unlock.mp3",
           "description": {
-            "zh": "這張圖好難畫，TMD 誰設計的"
+            "zh": "讓我的心 Unlock"
           }
         },
         {
@@ -655,6 +908,20 @@
           }
         },
         {
+          "name": "dc50c5f909610a85a4f072a212689457",
+          "path": "mygo/你們這些人_滿腦子都只想瑟瑟呢.mp3",
+          "description": {
+            "zh": "你們這些人，滿腦子都只想瑟瑟呢"
+          }
+        },
+        {
+          "name": "99936e9b21a56405be7d967a0f52574e",
+          "path": "mygo/你們這群玖桃_滿腦子只想到自己呢.mp3",
+          "description": {
+            "zh": "你們這群玖桃，滿腦子只想到自己呢"
+          }
+        },
+        {
           "name": "46a16c1e9a4f572b8a6724f8d1ab248e",
           "path": "mygo/你現在腦袋都是真的嗎_真的嗎.mp3",
           "description": {
@@ -673,6 +940,13 @@
           "path": "mygo/你這個人_滿腦子都只想到自己呢.mp3",
           "description": {
             "zh": "你這個人，滿腦子都只想到自己呢 (台語)"
+          }
+        },
+        {
+          "name": "118d2464290f8d3618dcdbcb13aa8023",
+          "path": "mygo/你這個人齁_滿腦子都只想著_怪怪的東西.mp3",
+          "description": {
+            "zh": "你這個人齁滿腦子都只想著...怪怪的東西"
           }
         },
         {
@@ -824,13 +1098,6 @@
           }
         },
         {
-          "name": "51e68472d8fa62b1e1159d1692927f7e",
-          "path": "noise/啊我忘記我的密碼-RRRR.mp3",
-          "description": {
-            "zh": "啊我忘記我的密碼 RRRR"
-          }
-        },
-        {
           "name": "a57e79747feaac61140934c42563bfe9",
           "path": "noise/嗯~.mp3",
           "description": {
@@ -849,6 +1116,13 @@
           "path": "noise/噗嚕~噗嚕~噗嚕~.mp3",
           "description": {
             "zh": "噗嚕~噗嚕~噗嚕~"
+          }
+        },
+        {
+          "name": "4a030f7d66e597cdce9adb5ce11b1c28",
+          "path": "noise/大笨鳥的叫聲.mp3",
+          "description": {
+            "zh": "大笨鳥的叫聲"
           }
         },
         {
@@ -971,6 +1245,13 @@
           }
         },
         {
+          "name": "aa36d54b82ba16747ec9f75b8792dd99",
+          "path": "noise/狐仙哈欠.mp3",
+          "description": {
+            "zh": "(狐仙哈欠) 今天怎麼這麼想睡阿"
+          }
+        },
+        {
           "name": "96fe166ac8a42df3d3c3744e40dfd88f",
           "path": "noise/狐狸叫.mp3",
           "description": {
@@ -1049,10 +1330,24 @@
           }
         },
         {
+          "name": "a24cee257366bc92f8c9141565f42e9c",
+          "path": "song_lyrics/RickRoll.mp3",
+          "description": {
+            "zh": "(你猜猜看這是啥)"
+          }
+        },
+        {
           "name": "1f6927ff3ca36a56b61abe179d267443",
           "path": "song_lyrics/お嬢様-it's-time-to-go-to-bed.mp3",
           "description": {
             "zh": "お嬢様，it's time to go to bed，還在玩手機嗎? 呀咧呀咧，再不睡覺的話...我就要開始跳舞囉"
+          }
+        },
+        {
+          "name": "2337040079574443aa51acb5934ee2eb",
+          "path": "song_lyrics/我愛新增DLC_我愛CF來許願.mp3",
+          "description": {
+            "zh": "我愛新增DLC，我愛 Clip Studio，我愛 CF 來許願，每天畫畫我的愛~"
           }
         },
         {
