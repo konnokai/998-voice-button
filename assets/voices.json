@@ -1,0 +1,1370 @@
+{
+  "groups": [
+    {
+      "group_name": "566",
+      "group_description": {
+        "zh": "烏拉拉"
+      },
+      "voice_list": [
+        {
+          "name": "af372691dc7bb11a92580cc518bef4f5",
+          "path": "566/烏拉拉_跟大家說掰掰.mp3",
+          "description": {
+            "zh": "烏拉拉~ 跟大家說掰掰"
+          }
+        },
+        {
+          "name": "bdf788161c6b68ddadc848a9e10a88be",
+          "path": "566/烏拉拉你是甚麼貓_母貓.mp3",
+          "description": {
+            "zh": "烏拉拉你是甚麼貓? 母貓"
+          }
+        },
+        {
+          "name": "c42abe2fa1a1d35a90b87d4cf39a2d7d",
+          "path": "566/牛五花.mp3",
+          "description": {
+            "zh": "烏拉拉最近有個叫聲叫做...牛五哇，牛五花，牛五花，牛五哇。看來...牠對涅默很有意見"
+          }
+        },
+        {
+          "name": "bcebd9f5644cb90fe688318d052cbce3",
+          "path": "566/飯飯.mp3",
+          "description": {
+            "zh": "飯飯"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "cry_lyrics",
+      "group_description": {
+        "zh": "哀號類台詞"
+      },
+      "voice_list": [
+        {
+          "name": "51e68472d8fa62b1e1159d1692927f7e",
+          "path": "cry_lyrics/啊我忘記我的密碼-RRRR.mp3",
+          "description": {
+            "zh": "啊我忘記我的密碼 RRRR"
+          }
+        },
+        {
+          "name": "77b87dc11e84a54985c5af9e88150c51",
+          "path": "cry_lyrics/好麻煩噢.mp3",
+          "description": {
+            "zh": "好麻煩噢"
+          }
+        },
+        {
+          "name": "e401c7952906ac2a182e4a43c98579e1",
+          "path": "cry_lyrics/對CF的無能狂怒.mp3",
+          "description": {
+            "zh": "不要 不要! 不可以! 把你那疊委託單給我拿走，沒有甚麼新動作跟向下相容啦，不要再剝奪我的遊戲時間啦，阿!!!!!!"
+          }
+        },
+        {
+          "name": "c25802b4fa47ef7bab1ffa267d323885",
+          "path": "cry_lyrics/工作_好累噢.mp3",
+          "description": {
+            "zh": "工作...好累噢 (小聲)"
+          }
+        },
+        {
+          "name": "0fe3edc230fef54a42fd81c71c485d6f",
+          "path": "cry_lyrics/希夫_我有檔期了_要不要新衣裝.mp3",
+          "description": {
+            "zh": "希~ 夫~ 我有檔期了，要不要~ 新衣裝~ (笑)"
+          }
+        },
+        {
+          "name": "00601db35ef39d8182c2d103ab36b53a",
+          "path": "cry_lyrics/愛會消失_對嗎.mp3",
+          "description": {
+            "zh": "愛會消失，對嗎? 愛會消失，但...稿子不會"
+          }
+        },
+        {
+          "name": "a9e73baba397f7161a7967100665d151",
+          "path": "cry_lyrics/我是998_現在被關在地下室_待我出地下室之日.mp3",
+          "description": {
+            "zh": "我是...998，現在被關在地下室，只要有委託，就能被放出來，待我出地下室之日"
+          }
+        },
+        {
+          "name": "5cfada00ded6491d778b3dfc42efd670",
+          "path": "cry_lyrics/玖玖巴老師_我真的很努力_你怎麼這樣子說.mp3",
+          "description": {
+            "zh": "玖玖巴老師! 我真的很努力，你怎麼這樣子說"
+          }
+        },
+        {
+          "name": "c534177854dbbf8ac1c117d79f121bf3",
+          "path": "cry_lyrics/畫畫好好玩_畫畫真的是太快樂了.mp3",
+          "description": {
+            "zh": "畫畫好好玩，畫畫真的是太快樂了 (棒讀)"
+          }
+        },
+        {
+          "name": "fc0f8c252042f6cb02609773c8ef6f68",
+          "path": "cry_lyrics/這張圖好難畫_TMD-誰設計的.mp3",
+          "description": {
+            "zh": "這張圖好難畫...TMD 誰設計的"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "curse_lyrics",
+      "group_description": {
+        "zh": "罵倒類台詞"
+      },
+      "voice_list": [
+        {
+          "name": "64f00321d463f235d54df10f3fa675b4",
+          "path": "curse_lyrics/不是說好要當一輩子的玖桃嗎.mp3",
+          "description": {
+            "zh": "以前會出現，現在...已經不會出現了，那你們應該知道那些玖桃去哪裡了吧，他們才不是去 D 別人呢，要馬變成了彈藥包，要馬變成了玫瑰鹽，不是說好要當一輩子的玖桃嗎? 斯巴拉西"
+          }
+        },
+        {
+          "name": "0a12b3b090f713dcb317771df82ebdb0",
+          "path": "curse_lyrics/你以為這樣子我就會說謝謝嗎_去吃土吧笨狗.mp3",
+          "description": {
+            "zh": "你以為這樣子我就會說謝謝嗎，去吃土吧笨狗"
+          }
+        },
+        {
+          "name": "ea6de918d22b7a1d1432d775482d76b2",
+          "path": "curse_lyrics/你們這些臭狗.mp3",
+          "description": {
+            "zh": "你們這些臭狗"
+          }
+        },
+        {
+          "name": "b497d0d42433aac7b18b5af839052c44",
+          "path": "curse_lyrics/你們這群垃圾_過來給我踩一下.mp3",
+          "description": {
+            "zh": "欸，你們這群垃圾，過來給我踩一下"
+          }
+        },
+        {
+          "name": "74fbdbaa4c8921fabfb7f9bc47876784",
+          "path": "curse_lyrics/你們這群大DD色狗_給我跪下.mp3",
+          "description": {
+            "zh": "你們這群大 DD 色狗，給我跪下!"
+          }
+        },
+        {
+          "name": "ef727f0eb7c83ee04c2c823006475d92",
+          "path": "curse_lyrics/你們這群小笨狗_害我好丟臉.mp3",
+          "description": {
+            "zh": "你們這群小笨狗害我好丟臉"
+          }
+        },
+        {
+          "name": "f6d93258bcb7f66cb36fd0d6edc4139d",
+          "path": "curse_lyrics/你們這群臭狗狗.mp3",
+          "description": {
+            "zh": "你們這群... 臭狗狗"
+          }
+        },
+        {
+          "name": "cc2940b91d2298d975dcf02aeec15d1e",
+          "path": "curse_lyrics/你們通通給我閉嘴.mp3",
+          "description": {
+            "zh": "(氣質) 你們通通給我閉嘴"
+          }
+        },
+        {
+          "name": "1485cf0146efc22bbf77686cb33f2e6e",
+          "path": "curse_lyrics/你們都一個人看直播噢_怎麼都沒有人跟你們一起玩_好可憐噢.mp3",
+          "description": {
+            "zh": "你們都一個人看直播噢，怎麼都沒有人跟你們一起玩，好可憐噢"
+          }
+        },
+        {
+          "name": "79a48ee8bea5edc61ba13bb7244b91fc",
+          "path": "curse_lyrics/你再吵我就把你做成彈藥包.mp3",
+          "description": {
+            "zh": "你再吵我就把你做成彈藥包"
+          }
+        },
+        {
+          "name": "ff02eee347bc4e5bea92a1530b3fce3d",
+          "path": "curse_lyrics/你怎麼現在才追隨_你之前都在幹嘛_死哪去了.mp3",
+          "description": {
+            "zh": "你怎麼現在才追隨，你之前都在幹嘛，死哪去了"
+          }
+        },
+        {
+          "name": "4a21bac1977911e871a47e17a5a97164",
+          "path": "curse_lyrics/你想被罵甚麼阿_想被罵甚麼阿_小變態.mp3",
+          "description": {
+            "zh": "(氣質) 你想被罵甚麼阿，想被罵甚麼阿，小變態"
+          }
+        },
+        {
+          "name": "4e6e9f52169cadda7a1ea0c9aebcfd7e",
+          "path": "curse_lyrics/你才光頭.mp3",
+          "description": {
+            "zh": "你才光頭"
+          }
+        },
+        {
+          "name": "6f1d04c63dd20ce7e86707680af460d0",
+          "path": "curse_lyrics/你才長角你全家都長角.mp3",
+          "description": {
+            "zh": "你才長角你全家都長角，我才不會實現你們的願望勒，神經病，女兒是女兒玖桃是玖桃，玖桃是低下的"
+          }
+        },
+        {
+          "name": "c53b573b51d50fcc5677f1ce219e786b",
+          "path": "curse_lyrics/你真的像隻狗狗一樣可愛呢.mp3",
+          "description": {
+            "zh": "你真的像隻狗狗一樣可愛呢"
+          }
+        },
+        {
+          "name": "dec1fe3d985ea341ab7663c80c774169",
+          "path": "curse_lyrics/你給的小奇點也太少了吧_才一百點_這算有給嗎.mp3",
+          "description": {
+            "zh": "你給的小奇點也太少了吧，才一百點，這算有給嗎?"
+          }
+        },
+        {
+          "name": "e02eab6ce6e43af6333f7aa8f13c0224",
+          "path": "curse_lyrics/你還在上班_太可憐了吧_怎麼現在還在上班_有沒有加班費阿_你這個可憐鬼.mp3",
+          "description": {
+            "zh": "你還在上班，太可憐了吧，怎麼現在還在上班，有沒有加班費阿，你這個可憐鬼"
+          }
+        },
+        {
+          "name": "069da99933f866fa1dd0429741c01e3b",
+          "path": "curse_lyrics/八嘎-八嘎-八嘎-變態.mp3",
+          "description": {
+            "zh": "八嘎 八嘎 八嘎 變態"
+          }
+        },
+        {
+          "name": "f8c363f9dfeebe0234cd2367597f829e",
+          "path": "curse_lyrics/到底是哪個垃圾換這個東西_這什麼垃圾啊.mp3",
+          "description": {
+            "zh": "到底是哪個垃圾換這個東西，這什麼垃圾啊"
+          }
+        },
+        {
+          "name": "d2eaf3b52f80cf0daa9dcb4c28137d7c",
+          "path": "curse_lyrics/哭噢_快給我滾去睡覺_不要在這邊五四三了_走開走開走開走開_滾_還看甚麼看屁噢_亂七八糟神經病.mp3",
+          "description": {
+            "zh": "哭噢，快給我滾去睡覺，不要在這邊五四三了，走開走開走開走開，滾! 還看甚麼看屁噢，亂七八糟神經病"
+          }
+        },
+        {
+          "name": "b7efe97ed517a766916e4c96fc6f0137",
+          "path": "curse_lyrics/喂_你這個條臭狗.mp3",
+          "description": {
+            "zh": "喂! 你這個條臭狗，還不明白嗎? 你只不過是條狗而已，除了聽我的命令，其他甚麼都不用想吧? 來~ 像隻狗一樣乖乖聽話，如果不乖的話... 會有懲罰噢"
+          }
+        },
+        {
+          "name": "89396a87d9bec69f225445ad251ef0ac",
+          "path": "curse_lyrics/噁心-噁心.mp3",
+          "description": {
+            "zh": "噁心 噁心"
+          }
+        },
+        {
+          "name": "e91243a1a56eb4c9c24bb3d441e3dcc0",
+          "path": "curse_lyrics/噢不甚麼_假賽喇.mp3",
+          "description": {
+            "zh": "噢不甚麼，假賽喇"
+          }
+        },
+        {
+          "name": "b9bb8a90745da64f48a503491ffc47b1",
+          "path": "curse_lyrics/変態ロリコン.mp3",
+          "description": {
+            "zh": "変態ロリコン"
+          }
+        },
+        {
+          "name": "3949a636d236b102400afb3a01236b5b",
+          "path": "curse_lyrics/小垃圾.mp3",
+          "description": {
+            "zh": "小垃圾"
+          }
+        },
+        {
+          "name": "6e445d53cef002d4bb7ed2d95c90d6c3",
+          "path": "curse_lyrics/工殺小喇.mp3",
+          "description": {
+            "zh": "工殺小喇"
+          }
+        },
+        {
+          "name": "229963488d7940b82dce7f00ea7cc464",
+          "path": "curse_lyrics/弄死你這些小王八蛋.mp3",
+          "description": {
+            "zh": "弄死你這些小王八蛋"
+          }
+        },
+        {
+          "name": "aa9ac2a2ef23bf43e289a747dde1b640",
+          "path": "curse_lyrics/怎麼還不睡覺_都幾點了_滾.mp3",
+          "description": {
+            "zh": "怎麼還不睡覺，都幾點了，滾!"
+          }
+        },
+        {
+          "name": "f79b440c3b402a740c6e900027786a37",
+          "path": "curse_lyrics/想要黑絲嗎_想得美.mp3",
+          "description": {
+            "zh": "想要黑絲嗎，想得美!"
+          }
+        },
+        {
+          "name": "711d2a8801a8e058dfec3c2cc5a91428",
+          "path": "curse_lyrics/我知道你們會汪啦_可是你們那個汪阿_太廉價了_跟垃圾沒有兩樣.mp3",
+          "description": {
+            "zh": "我知道你們會汪啦，可是你們那個汪阿...太廉價了，跟垃圾沒有兩樣"
+          }
+        },
+        {
+          "name": "94ff8bd75d2d9ce18da08aec6798ae9c",
+          "path": "curse_lyrics/有沒有毛病啊.mp3",
+          "description": {
+            "zh": "有沒有毛病啊"
+          }
+        },
+        {
+          "name": "b0ebd257e134021cb7fc21c102ca7a79",
+          "path": "curse_lyrics/沒有_快滾_晚安晚安_睡覺的晚安.mp3",
+          "description": {
+            "zh": "(伸懶腰) 沒有，快滾，晚安晚安，睡覺的晚安"
+          }
+        },
+        {
+          "name": "9874bbc0796d47f8205756dae6f4bea8",
+          "path": "curse_lyrics/獨角獸給我閉嘴.mp3",
+          "description": {
+            "zh": "獨角獸給我閉嘴! 我這樣罵是不是會罵到很多人啊，不對我們這裡沒有獨角獸，我們這裡只有八嘎，八嘎跟玖桃"
+          }
+        },
+        {
+          "name": "40e16b3c21c4124da20a907dae974312",
+          "path": "curse_lyrics/甚麼不要_你們有那個權利拒絕嗎_沒有_你們就只是個狗沒有權利拒絕.mp3",
+          "description": {
+            "zh": "甚麼不要，你們有那個權利拒絕嗎? 沒有，你們就只是個狗沒有權利拒絕"
+          }
+        },
+        {
+          "name": "c0888243c38ffb252c7985dc94dd63f5",
+          "path": "curse_lyrics/盤子給我閉嘴.mp3",
+          "description": {
+            "zh": "盤子給我閉嘴"
+          }
+        },
+        {
+          "name": "cf66a92838c56325105eba776a13cf99",
+          "path": "curse_lyrics/看來我得好好地把你們關在地下室調教了_你們說對吧.mp3",
+          "description": {
+            "zh": "我就知道，我不該讓你們這群玖桃有手打字，看看你們這群小笨狗都給我打些甚麼台詞，給一堆亂七八糟的東西，是不是沒有被皮鞭打過，是不是都教育的還不夠呢，看來我得好好地把你們關在地下室多多調教了，你們說對吧?"
+          }
+        },
+        {
+          "name": "90579cc70d06ab0ca70a894344c617e7",
+          "path": "curse_lyrics/神經病哦.mp3",
+          "description": {
+            "zh": "神經病哦"
+          }
+        },
+        {
+          "name": "00519f97a22ab4422fe0533d431c7e2f",
+          "path": "curse_lyrics/肯定是你要求太多了_你這個人就是好色.mp3",
+          "description": {
+            "zh": "肯定是你要求太多了，你這個人就是好色"
+          }
+        },
+        {
+          "name": "791dc17c1aa932d9f338f68c6134d5e3",
+          "path": "curse_lyrics/要繼續當我的狗狗噢.mp3",
+          "description": {
+            "zh": "你們就這麼喜歡被我踩在腳下嗎? 那倒是叫幾聲來聽聽阿。乖~ 要繼續...當我的狗狗噢"
+          }
+        },
+        {
+          "name": "d253482e19ca9d85fb040759bb535e1a",
+          "path": "curse_lyrics/踩死你們這群小王八蛋.mp3",
+          "description": {
+            "zh": "踩死你們這群小王八蛋"
+          }
+        },
+        {
+          "name": "cc2ea4971d54802310648ed0064a1255",
+          "path": "curse_lyrics/這麼清楚的台_怎麼會有你這骯髒的玖桃阿.mp3",
+          "description": {
+            "zh": "這麼清楚的台，怎麼會有你這麼骯髒的玖桃阿"
+          }
+        },
+        {
+          "name": "e0da0d68765e7035e7e49934bbda5e0e",
+          "path": "curse_lyrics/那邊安安的_怎麼現在才來_到底有沒有開通知阿_大家都在等你一個.mp3",
+          "description": {
+            "zh": "那邊安安的，怎麼現在才來，到底有沒有開通知阿，大家都在等你一個"
+          }
+        },
+        {
+          "name": "73cfb561025b6a138a806b3407fef701",
+          "path": "curse_lyrics/醒醒吧你沒有朋友.mp3",
+          "description": {
+            "zh": "醒醒吧你沒有朋友"
+          }
+        },
+        {
+          "name": "5e6a80f05bf9e8397bdfb4459ea091fd",
+          "path": "curse_lyrics/釘宮三連.mp3",
+          "description": {
+            "zh": "釘宮三連"
+          }
+        },
+        {
+          "name": "e8bbd5a139730d674cdc65a395582813",
+          "path": "curse_lyrics/麗澪學姊_還在一個人開台哦_太可憐了吧.mp3",
+          "description": {
+            "zh": "麗澪學姊~ 還在一個人開台哦? 太可憐了吧! (我是被逼的)"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "headphone_recommand",
+      "group_description": {
+        "zh": "耳機推薦 (立體聲台詞，部分可能會導致社死的台詞也會放在這)"
+      },
+      "voice_list": [
+        {
+          "name": "c54913a4fdceb57a6acaa5db8f169baf",
+          "path": "headphone_recommand/一直都很感謝_大家的支持_晚安安祝大家好夢.mp3",
+          "description": {
+            "zh": "一直都很感謝，大家的支持，晚安安祝大家好夢"
+          }
+        },
+        {
+          "name": "2f224fae4f9bdec01bfd03f357b42910",
+          "path": "headphone_recommand/伸懶腰.mp3",
+          "description": {
+            "zh": "伸懶腰"
+          }
+        },
+        {
+          "name": "6d7a5098a0b7d2fb90e436039b2be5d2",
+          "path": "headphone_recommand/伸懶腰2.mp3",
+          "description": {
+            "zh": "伸懶腰 2"
+          }
+        },
+        {
+          "name": "2e3fa64d5a3eec3bea95c596f99d9ade",
+          "path": "headphone_recommand/你們這群小笨狗_害我好丟臉噢.mp3",
+          "description": {
+            "zh": "你們這群小笨狗，害我好丟臉噢"
+          }
+        },
+        {
+          "name": "968fe5812d4acc81adaaf39c48187db6",
+          "path": "headphone_recommand/你問玖玖巴為什麼要穿黑絲.mp3",
+          "description": {
+            "zh": "你說...我為什麼要穿黑絲? 肯定是因為我想穿阿，怎麼可能...是為了滿足一群玖桃的慾望對吧，對吧?"
+          }
+        },
+        {
+          "name": "0abdd3afbed9f83d3ff4017bb57167d7",
+          "path": "headphone_recommand/好了嗎_好了嗎.mp3",
+          "description": {
+            "zh": "好了嗎? 好了嗎?"
+          }
+        },
+        {
+          "name": "283facd5bc184ee8d392cdbf92ee288f",
+          "path": "headphone_recommand/明天_停止上班上課噢.mp3",
+          "description": {
+            "zh": "明天...停止上班上課噢"
+          }
+        },
+        {
+          "name": "68de862f722059aa1b9b96ac148e3605",
+          "path": "headphone_recommand/玖桃們_今天又去哪裡DD了呀.mp3",
+          "description": {
+            "zh": "哎呀...玖桃們，今天又去哪裡 DD 了呀，恩? 告訴我嘛"
+          }
+        },
+        {
+          "name": "7647eb06775372430bcbb28cca4ed72f",
+          "path": "headphone_recommand/真是個壞孩子.mp3",
+          "description": {
+            "zh": "哎呀，竟然已經興奮起來了，真是個壞孩子。沒關係，我會好好懲罰你的"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "misc_lyrics",
+      "group_description": {
+        "zh": "雜項台詞"
+      },
+      "voice_list": [
+        {
+          "name": "29ee62626dfbbb8b8c1e1ffa02db19eb",
+          "path": "misc_lyrics/CF不是男V阿.mp3",
+          "description": {
+            "zh": "CF 甚麼，CF 不是男 V 阿"
+          }
+        },
+        {
+          "name": "9316b4e211a636fef9f00d732984e7f7",
+          "path": "misc_lyrics/CF我想畫DLC_我一點都不想.mp3",
+          "description": {
+            "zh": "CF...我想畫...DLC。我一點都不想!!!"
+          }
+        },
+        {
+          "name": "0f15704ba92cf1d6d90eec4ec89daee5",
+          "path": "misc_lyrics/CF要畫新衣裝_161要DLC_烟花要新皮_來都來.mp3",
+          "description": {
+            "zh": "CF 要畫新衣裝? 161 要畫 DLC? 烟花要委託新皮? 來都來，我還嫌畫不夠! (此台詞並非 998 真實的想法)"
+          }
+        },
+        {
+          "name": "34f1d61970d27e406cd3114fad3624c0",
+          "path": "misc_lyrics/不努力就會成為玖玖巴的玩物_關你屁事我樂意.mp3",
+          "description": {
+            "zh": "不努力就會成為玖玖巴的玩物，關你屁事我樂意!"
+          }
+        },
+        {
+          "name": "f42f90433a5638c2f1aa544d1f62b552",
+          "path": "misc_lyrics/不要喝了.mp3",
+          "description": {
+            "zh": "不要喝了"
+          }
+        },
+        {
+          "name": "5711e0963f9234bcc006a9bd9727cc0e",
+          "path": "misc_lyrics/人家-人家是女生餒.mp3",
+          "description": {
+            "zh": "人家...人家是女生餒"
+          }
+        },
+        {
+          "name": "0166078c7e3c5ae69d27c9640f5b31f8",
+          "path": "misc_lyrics/今年_18_歲.mp3",
+          "description": {
+            "zh": "今~ 年~ 1~ 8~ 歲~"
+          }
+        },
+        {
+          "name": "8b908584b7db66b938134ccbe455f851",
+          "path": "misc_lyrics/低音_你也看玖桃噢_汪汪.mp3",
+          "description": {
+            "zh": "(低音) 你也看玖桃噢，汪汪"
+          }
+        },
+        {
+          "name": "c67a40afc44dda446494b945c4100f62",
+          "path": "misc_lyrics/低音_漂亮的大姊姊.mp3",
+          "description": {
+            "zh": "(低音) 漂亮的大姊姊"
+          }
+        },
+        {
+          "name": "c939f32c9e92233ac42ab1476bef16e6",
+          "path": "misc_lyrics/你要出多少.mp3",
+          "description": {
+            "zh": "你要出多少"
+          }
+        },
+        {
+          "name": "ccafeb453929486013fd6ed80b4b031c",
+          "path": "misc_lyrics/兄弟.mp3",
+          "description": {
+            "zh": "兄弟 (小聲)"
+          }
+        },
+        {
+          "name": "2ab8087c67cb63582d2d1ae0cb807823",
+          "path": "misc_lyrics/吃飯飯_飯飯.mp3",
+          "description": {
+            "zh": "吃飯飯，飯飯~"
+          }
+        },
+        {
+          "name": "e60c0edcdf54fe791027d3e545d1f681",
+          "path": "misc_lyrics/各位汪安.mp3",
+          "description": {
+            "zh": "晚安晚安，各位晚安，各位汪汪，各位汪汪，各位汪汪，汪汪汪汪汪汪......汪汪汪汪"
+          }
+        },
+        {
+          "name": "9c4b12dad211edb176b5b552124fc3e2",
+          "path": "misc_lyrics/啟動~.mp3",
+          "description": {
+            "zh": "啟動~"
+          }
+        },
+        {
+          "name": "4a371023697b9792470055e648ed064a",
+          "path": "misc_lyrics/大好き.mp3",
+          "description": {
+            "zh": "大好き"
+          }
+        },
+        {
+          "name": "5487378daf8c223ea192d0f80166b4b5",
+          "path": "misc_lyrics/好我去收拾大家_讓我好好的收拾你們.mp3",
+          "description": {
+            "zh": "好我去收拾大家，讓我好好的收拾你們"
+          }
+        },
+        {
+          "name": "2314dec7c6f033d9328b97c42560a67a",
+          "path": "misc_lyrics/完蛋了語音包是不是又要增加了阿.mp3",
+          "description": {
+            "zh": "完蛋了語音包是不是又要增加了阿 (對)"
+          }
+        },
+        {
+          "name": "b8a6866b64fb188a0730fba8e75799f8",
+          "path": "misc_lyrics/微笑小玖巴.mp3",
+          "description": {
+            "zh": "微笑小玖巴☆讓你的心也跟著微笑，傳遞笑容的玖玖巴，愛玖玖巴就要記住玖玖巴哦，にっこにっこにー！"
+          }
+        },
+        {
+          "name": "1e52878685d4e27ad9fec17815d8774e",
+          "path": "misc_lyrics/想不想多換一副耳膜阿.mp3",
+          "description": {
+            "zh": "想不想多換一副耳膜阿"
+          }
+        },
+        {
+          "name": "ca42cfaa87953575117ae8c8226a9661",
+          "path": "misc_lyrics/想要發委託嗎.mp3",
+          "description": {
+            "zh": "想要發委託嗎? 可以呦。如果是你的話...再多的委託，我都會接下來的 (此台詞並非 998 真實的想法)"
+          }
+        },
+        {
+          "name": "3d17ec8a8d1dbdc86d6e685df69cce74",
+          "path": "misc_lyrics/我喜歡畫畫跟_L2D_眼神死.mp3",
+          "description": {
+            "zh": "我喜歡畫畫跟 L2D (眼神死)。有沒有感受到我的誠意了 (並沒有)"
+          }
+        },
+        {
+          "name": "282fd9d750b5703990de2d06580e97a6",
+          "path": "misc_lyrics/我想一下_伸懶腰.mp3",
+          "description": {
+            "zh": "我想一下 (伸懶腰)"
+          }
+        },
+        {
+          "name": "a674cd053aeabd0d9dd48949b564528e",
+          "path": "misc_lyrics/我把你們看光光了_脫掉-讓我看看.mp3",
+          "description": {
+            "zh": "我把你們看光光了，脫掉! 讓我看看!"
+          }
+        },
+        {
+          "name": "55b10bb028e01e039d8ca555f2507fc5",
+          "path": "misc_lyrics/我最討厭這種直覺敏銳的老婆龍.mp3",
+          "description": {
+            "zh": "我最討厭這種，直覺敏銳的老婆龍"
+          }
+        },
+        {
+          "name": "e4848e4b44f060e47a249098277edf02",
+          "path": "misc_lyrics/我這麼氣質.mp3",
+          "description": {
+            "zh": "我...這麼氣質，我這麼氣質怎麼會講這種東西 (え?)"
+          }
+        },
+        {
+          "name": "6f4ce3c4e97fc727f43a09552610a444",
+          "path": "misc_lyrics/所以我該去社交了-可是我會怕阿.mp3",
+          "description": {
+            "zh": "所以我該去社交了，可是我會怕阿"
+          }
+        },
+        {
+          "name": "976dc5faf596d125c5ccad6c9ecefdef",
+          "path": "misc_lyrics/打直球是甚麼-我喜歡你.mp3",
+          "description": {
+            "zh": "打直球是甚麼 我喜歡你"
+          }
+        },
+        {
+          "name": "572afee6d00d6efb7b23ff2a1aca9e82",
+          "path": "misc_lyrics/把耳膜還來.mp3",
+          "description": {
+            "zh": "把耳膜還來"
+          }
+        },
+        {
+          "name": "2674ce5bc653d4f090a68b8aa9ca810e",
+          "path": "misc_lyrics/抓他_抓他.mp3",
+          "description": {
+            "zh": "抓他，抓他 (小聲)"
+          }
+        },
+        {
+          "name": "61abb6dd7b9b16a4071559826cacf819",
+          "path": "misc_lyrics/斯巴拉西.mp3",
+          "description": {
+            "zh": "斯巴拉西..."
+          }
+        },
+        {
+          "name": "cab4a8fd5e9c1c899667449bfd290761",
+          "path": "misc_lyrics/日文版新婚三問.mp3",
+          "description": {
+            "zh": "日文版新婚三問"
+          }
+        },
+        {
+          "name": "15c9c0ef25f56e728009efc04c634d99",
+          "path": "misc_lyrics/晚安-晚安的晚安_祝好夢.mp3",
+          "description": {
+            "zh": "晚安 晚安的晚安，祝好夢"
+          }
+        },
+        {
+          "name": "46ac580bcfb4563e19cfe678701ca794",
+          "path": "misc_lyrics/有賣_甩客人馬尾嗎-沒有_甩你們.mp3",
+          "description": {
+            "zh": "有賣...甩客人馬尾嗎? 沒有! 甩你們"
+          }
+        },
+        {
+          "name": "e42121b904b6da37adfd4ecbc3b7f8b8",
+          "path": "misc_lyrics/欸不對-12-分了我可以回來了_爽啦.mp3",
+          "description": {
+            "zh": "欸不對 12 分了我可以回來了，爽啦~"
+          }
+        },
+        {
+          "name": "cb870499e2fd20245069701035b5b415",
+          "path": "misc_lyrics/玖玖巴_玖玖巴飛出去了.mp3",
+          "description": {
+            "zh": "玖玖巴! 玖玖巴飛出去了"
+          }
+        },
+        {
+          "name": "c27ec67d74f717690ab1582ea2d5e2a5",
+          "path": "misc_lyrics/玖玖巴要把你_吃乾嘛淨.mp3",
+          "description": {
+            "zh": "你想成為我的盤中飧嗎? (阿姆) 味道還不錯嘛，做好心理準備了嗎? 我要把你...吃 乾 嘛 淨"
+          }
+        },
+        {
+          "name": "f373867a7702b281da64f4c8afe16fef",
+          "path": "misc_lyrics/玖玖巴親餵暈車藥.mp3",
+          "description": {
+            "zh": "來~嘴巴張開，吃暈車藥噢，阿~~~"
+          }
+        },
+        {
+          "name": "8627a523bb184cd376fa904924837e98",
+          "path": "misc_lyrics/甲投刀啦.mp3",
+          "description": {
+            "zh": "甲投刀啦"
+          }
+        },
+        {
+          "name": "b7ab173b6773ba5dcc4bf9ea41fe10a8",
+          "path": "misc_lyrics/統治世界.mp3",
+          "description": {
+            "zh": "統治世界 (烟花笑)"
+          }
+        },
+        {
+          "name": "d1933134417edb1170aa1506c341dd4d",
+          "path": "misc_lyrics/統治世界2.mp3",
+          "description": {
+            "zh": "統治世界 2"
+          }
+        },
+        {
+          "name": "04f7b3b266999e91b4c02a799c096878",
+          "path": "misc_lyrics/繪圖板蛋雕_不畫圖了_蛋雕.mp3",
+          "description": {
+            "zh": "繪圖板蛋雕 (笑)，不畫圖了，蛋雕!"
+          }
+        },
+        {
+          "name": "a9d5b45fd87d8732cf650b95602e5719",
+          "path": "misc_lyrics/臭玖桃_我才沒有喜歡你們呢.mp3",
+          "description": {
+            "zh": "臭玖桃，我才沒有喜歡你們呢! 只是你們如果不來看直播聊聊天，大概會很無聊吧，覺得有點寂寞而已，不要想太多了"
+          }
+        },
+        {
+          "name": "224ac037e5b316557994a76313002051",
+          "path": "misc_lyrics/色即是空_空即是色.mp3",
+          "description": {
+            "zh": "色甚麼? 色即是空 空即是色，只要你心裡沒有色色這一切就沒有色色了"
+          }
+        },
+        {
+          "name": "9892d9a7e81cc6b712de80b369ed2281",
+          "path": "misc_lyrics/芒果啦淦.mp3",
+          "description": {
+            "zh": "芒果啦淦! (笑)"
+          }
+        },
+        {
+          "name": "46502479236a9018e406356bf85eb1e3",
+          "path": "misc_lyrics/記住了嗎_親愛的_變身國王梗.mp3",
+          "description": {
+            "zh": "(變身國王) 三份穿褲子的豬，一盤熱空氣，一份祖母的早餐籃，把牛變成鱒魚，知道了"
+          }
+        },
+        {
+          "name": "e5529e3237dfa8ec4bed1c728da2a2e7",
+          "path": "misc_lyrics/請不要玩弄玖玖巴-謝謝_只有玖玖巴可以玩弄你們.mp3",
+          "description": {
+            "zh": "請不要玩弄玖玖巴 謝謝，只有玖玖巴可以玩弄你們"
+          }
+        },
+        {
+          "name": "768d607014697c6321a633fba73dc3de",
+          "path": "misc_lyrics/讓我的心_Unlock.mp3",
+          "description": {
+            "zh": "讓我的心 Unlock"
+          }
+        },
+        {
+          "name": "0bf5f547264a17f7f89e15b96de886f9",
+          "path": "misc_lyrics/這甚麼聲音阿.mp3",
+          "description": {
+            "zh": "這甚麼聲音阿"
+          }
+        },
+        {
+          "name": "c3cadc245b68dfa3616016f3c6046206",
+          "path": "misc_lyrics/門都沒有.mp3",
+          "description": {
+            "zh": "門都沒有"
+          }
+        },
+        {
+          "name": "ba7f711d3362ecd1a10814655c260ca7",
+          "path": "misc_lyrics/阿_雷達.mp3",
+          "description": {
+            "zh": "阿~~ 雷達"
+          }
+        },
+        {
+          "name": "c51c865aebcee66adb7366432e8c3a16",
+          "path": "misc_lyrics/阿偉.mp3",
+          "description": {
+            "zh": "阿偉~~ 阿，阿偉"
+          }
+        },
+        {
+          "name": "5603709129a529905f6ec4fd3c56c82c",
+          "path": "misc_lyrics/阿幹.mp3",
+          "description": {
+            "zh": "阿幹"
+          }
+        },
+        {
+          "name": "ebcb7314d634124df4b3d090320dfdc7",
+          "path": "misc_lyrics/阿淦XX.mp3",
+          "description": {
+            "zh": "阿淦XX"
+          }
+        },
+        {
+          "name": "28126c3defc42965cb7206e0b45c269f",
+          "path": "misc_lyrics/飯飯_飯飯.mp3",
+          "description": {
+            "zh": "飯飯~ 飯飯~"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "mygo",
+      "group_description": {
+        "zh": "MyGo"
+      },
+      "voice_list": [
+        {
+          "name": "25931c160b45ccb032c9971e425ae743",
+          "path": "mygo/不要再_Go_了.mp3",
+          "description": {
+            "zh": "不要再 Go 了，夠了已經太多了"
+          }
+        },
+        {
+          "name": "dc50c5f909610a85a4f072a212689457",
+          "path": "mygo/你們這些人_滿腦子都只想瑟瑟呢.mp3",
+          "description": {
+            "zh": "你們這些人，滿腦子都只想瑟瑟呢"
+          }
+        },
+        {
+          "name": "99936e9b21a56405be7d967a0f52574e",
+          "path": "mygo/你們這群玖桃_滿腦子只想到自己呢.mp3",
+          "description": {
+            "zh": "你們這群玖桃，滿腦子只想到自己呢"
+          }
+        },
+        {
+          "name": "46a16c1e9a4f572b8a6724f8d1ab248e",
+          "path": "mygo/你現在腦袋都是真的嗎_真的嗎.mp3",
+          "description": {
+            "zh": "你現在腦袋都是真的嗎，真的嗎!"
+          }
+        },
+        {
+          "name": "205dc1c016e1b126941f778be1fa910f",
+          "path": "mygo/你竟敢無視燈.mp3",
+          "description": {
+            "zh": "(魔物獵人) 三燈動作會變...你竟敢無視燈"
+          }
+        },
+        {
+          "name": "879b7b89d3e550e022b562d9798f7da3",
+          "path": "mygo/你這個人_滿腦子都只想到自己呢.mp3",
+          "description": {
+            "zh": "你這個人，滿腦子都只想到自己呢 (台語)"
+          }
+        },
+        {
+          "name": "118d2464290f8d3618dcdbcb13aa8023",
+          "path": "mygo/你這個人齁_滿腦子都只想著_怪怪的東西.mp3",
+          "description": {
+            "zh": "你這個人齁滿腦子都只想著...怪怪的東西"
+          }
+        },
+        {
+          "name": "6d53842b0f7a30f9c37f84bd546680fb",
+          "path": "mygo/又來了一個新人.mp3",
+          "description": {
+            "zh": "又來了一個新人"
+          }
+        },
+        {
+          "name": "45541cc87a4e42294c5a1b179c213e36",
+          "path": "mygo/妳是來找我吵架的嗎.mp3",
+          "description": {
+            "zh": "妳是來找我吵架的嗎"
+          }
+        },
+        {
+          "name": "90800ff571517e6edc5e4abba5c35f41",
+          "path": "mygo/我已經受夠你們這群狗狗了_我受-GO-了.mp3",
+          "description": {
+            "zh": "我已經受夠你們這群狗狗了，我受 GO 了"
+          }
+        },
+        {
+          "name": "585f3616e40ec40aff9f17bbe79bde22",
+          "path": "mygo/我從來都不覺得畫圖開心過.mp3",
+          "description": {
+            "zh": "我從來都不覺得畫圖開心過"
+          }
+        },
+        {
+          "name": "be50e2c71f8e1a025167fd121dea6ad7",
+          "path": "mygo/我愛慕虛榮啦.mp3",
+          "description": {
+            "zh": "我愛慕虛榮啦"
+          }
+        },
+        {
+          "name": "40fbf23cf4a2694bbecefbd621b96b31",
+          "path": "mygo/是又怎樣.mp3",
+          "description": {
+            "zh": "是又怎樣"
+          }
+        },
+        {
+          "name": "0e70c4f165831d111672326563279e68",
+          "path": "mygo/滿腦子都只有想到自己呢.mp3",
+          "description": {
+            "zh": "滿腦子都只有想到自己呢"
+          }
+        },
+        {
+          "name": "692cf15bec43a75e02364f8c386f643c",
+          "path": "mygo/還真是高高在上呢.mp3",
+          "description": {
+            "zh": "還真是高高在上呢"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "noise",
+      "group_description": {
+        "zh": "意義不明的音效"
+      },
+      "voice_list": [
+        {
+          "name": "9030233379544510dc8acd05eb5d5ba6",
+          "path": "noise/HUH.mp3",
+          "description": {
+            "zh": "HUH"
+          }
+        },
+        {
+          "name": "e48407ffb1da9a60739f11fa7a139d00",
+          "path": "noise/RRRRR.mp3",
+          "description": {
+            "zh": "RRRRR"
+          }
+        },
+        {
+          "name": "06557a809957dac4d3faef7ee94974d2",
+          "path": "noise/RRRRRRR.mp3",
+          "description": {
+            "zh": "RRRRRRR"
+          }
+        },
+        {
+          "name": "f777c304e341b180d26d689b5f2935e4",
+          "path": "noise/TSKR.mp3",
+          "description": {
+            "zh": "TSKR (打噴嚏)"
+          }
+        },
+        {
+          "name": "29b715d635d768add11490cc89485eda",
+          "path": "noise/WTFWTFWTF.mp3",
+          "description": {
+            "zh": "WTFWTFWTF"
+          }
+        },
+        {
+          "name": "8ff4237224391dd9bcaf0b492c6a253c",
+          "path": "noise/伊呀哈.mp3",
+          "description": {
+            "zh": "伊呀哈"
+          }
+        },
+        {
+          "name": "351b74de1bba01ff87750d88e5bd2abe",
+          "path": "noise/伸懶腰.mp3",
+          "description": {
+            "zh": "伸懶腰"
+          }
+        },
+        {
+          "name": "c46d9811e756505b0d10acd45e077a23",
+          "path": "noise/厄狐咆嘯.mp3",
+          "description": {
+            "zh": "厄狐咆嘯"
+          }
+        },
+        {
+          "name": "5d8da41fdb56605dc2ec12fa50159b61",
+          "path": "noise/呀哈.mp3",
+          "description": {
+            "zh": "呀哈~~~~"
+          }
+        },
+        {
+          "name": "af308a3445ce0fbe6097117cd87e53d5",
+          "path": "noise/哀號.mp3",
+          "description": {
+            "zh": "哀號"
+          }
+        },
+        {
+          "name": "eb9587bbfcbab84f397f95dbdf64b93f",
+          "path": "noise/哈⭣哈⭡.mp3",
+          "description": {
+            "zh": "哈⭣哈⭡"
+          }
+        },
+        {
+          "name": "e554dda3d3b15b7786ac98b7a102564d",
+          "path": "noise/啊哈.mp3",
+          "description": {
+            "zh": "啊哈"
+          }
+        },
+        {
+          "name": "a57e79747feaac61140934c42563bfe9",
+          "path": "noise/嗯~.mp3",
+          "description": {
+            "zh": "嗯~"
+          }
+        },
+        {
+          "name": "7ab687a0bdfab9c5e4f1df4868f22ac5",
+          "path": "noise/嗷嗚~嗷嗚~.mp3",
+          "description": {
+            "zh": "嗷嗚~嗷嗚~"
+          }
+        },
+        {
+          "name": "64a59f2e5f7d4e556c38327888c94601",
+          "path": "noise/噗嚕~噗嚕~噗嚕~.mp3",
+          "description": {
+            "zh": "噗嚕~噗嚕~噗嚕~"
+          }
+        },
+        {
+          "name": "4a030f7d66e597cdce9adb5ce11b1c28",
+          "path": "noise/大笨鳥的叫聲.mp3",
+          "description": {
+            "zh": "大笨鳥的叫聲"
+          }
+        },
+        {
+          "name": "cbb1fe34a16b0c4a65ccd5c1966a5b04",
+          "path": "noise/彈嘴唇.mp3",
+          "description": {
+            "zh": "彈嘴唇"
+          }
+        },
+        {
+          "name": "de71622a78a6c660d597405499751b96",
+          "path": "noise/恩⭣恩⭡.mp3",
+          "description": {
+            "zh": "恩⭣恩⭡"
+          }
+        },
+        {
+          "name": "b1cba6d841fa9d23a26eab7a61586358",
+          "path": "noise/意義不明的叫聲.mp3",
+          "description": {
+            "zh": "意義不明的叫聲"
+          }
+        },
+        {
+          "name": "c717c2524e46f26c138b647319dfd385",
+          "path": "noise/我要哭了噢.mp3",
+          "description": {
+            "zh": "我要哭了噢 (哭)"
+          }
+        },
+        {
+          "name": "83ae8e1c06e232246909a2e224b88bbb",
+          "path": "noise/打噴嚏.mp3",
+          "description": {
+            "zh": "打噴嚏"
+          }
+        },
+        {
+          "name": "056ede5a3d98ba4a3858760680abc726",
+          "path": "noise/打噴嚏2.mp3",
+          "description": {
+            "zh": "打噴嚏2"
+          }
+        },
+        {
+          "name": "54bfca1881f6210480b6785fcbde883a",
+          "path": "noise/抱頭狐仙.mp3",
+          "description": {
+            "zh": "抱頭狐仙"
+          }
+        },
+        {
+          "name": "632e68f68e036e10bc2ef78025edf2c6",
+          "path": "noise/敲一下桌子就會發出玖桃的聲音.mp3",
+          "description": {
+            "zh": "敲一下桌子就會發出玖桃的聲音"
+          }
+        },
+        {
+          "name": "ea331ba8cd750e85f9e5aaa9012932ac",
+          "path": "noise/欸嘿.mp3",
+          "description": {
+            "zh": "欸嘿"
+          }
+        },
+        {
+          "name": "2380bc777c3d7c0b523cd4c82481cf0e",
+          "path": "noise/汪汪.mp3",
+          "description": {
+            "zh": "汪汪汪 汪汪汪，汪汪汪汪汪汪"
+          }
+        },
+        {
+          "name": "c13a2e66022d4010170f5ac542eeed1e",
+          "path": "noise/汪汪汪汪汪汪汪汪汪汪_汪汪.mp3",
+          "description": {
+            "zh": "汪汪汪汪汪汪汪汪汪汪，汪汪"
+          }
+        },
+        {
+          "name": "c48af1946b5ea9f470c5fa2aa890b0d6",
+          "path": "noise/汪汪混剪.mp3",
+          "description": {
+            "zh": "汪汪混剪"
+          }
+        },
+        {
+          "name": "74d4592d1f40ea0228c29ba842fd1ca0",
+          "path": "noise/沒有伸懶腰的伸懶腰.mp3",
+          "description": {
+            "zh": "沒有伸懶腰的伸懶腰"
+          }
+        },
+        {
+          "name": "8ba453c9354e8168cba1bf0dba96aa5e",
+          "path": "noise/波邦邦邦邦.mp3",
+          "description": {
+            "zh": "波邦邦邦邦"
+          }
+        },
+        {
+          "name": "1453b55da4bc12d799d15f810795bc5c",
+          "path": "noise/烏薩奇-1.mp3",
+          "description": {
+            "zh": "烏薩奇 1"
+          }
+        },
+        {
+          "name": "e18c8439942099699a0a63f91b293baa",
+          "path": "noise/烏薩奇-2.mp3",
+          "description": {
+            "zh": "烏薩奇 2"
+          }
+        },
+        {
+          "name": "d4e9b4e7a18bdfcdc40f73a863114542",
+          "path": "noise/烏薩奇-蛤.mp3",
+          "description": {
+            "zh": "烏薩奇 蛤"
+          }
+        },
+        {
+          "name": "aa36d54b82ba16747ec9f75b8792dd99",
+          "path": "noise/狐仙哈欠.mp3",
+          "description": {
+            "zh": "(狐仙哈欠) 今天怎麼這麼想睡阿"
+          }
+        },
+        {
+          "name": "96fe166ac8a42df3d3c3744e40dfd88f",
+          "path": "noise/狐狸叫.mp3",
+          "description": {
+            "zh": "狐狸叫"
+          }
+        },
+        {
+          "name": "f2578965d125a30c822ced66bdccbebf",
+          "path": "noise/狐狸笑.mp3",
+          "description": {
+            "zh": "狐狸笑"
+          }
+        },
+        {
+          "name": "ea29d55727f22dec5711cb7b7550faaf",
+          "path": "noise/玖巴喵.mp3",
+          "description": {
+            "zh": "玖巴喵"
+          }
+        },
+        {
+          "name": "818841da9f1eeb146bdce01735218ff8",
+          "path": "noise/玖巴牌機車.mp3",
+          "description": {
+            "zh": "玖巴牌機車"
+          }
+        },
+        {
+          "name": "50cad05ca293d380280a06257c660ccb",
+          "path": "noise/非常糾結的玖玖巴.mp3",
+          "description": {
+            "zh": "非常糾結的玖玖巴"
+          }
+        },
+        {
+          "name": "311c43bc5d90a8f44721872aec6f0333",
+          "path": "noise/魔物獵人烤肉.mp3",
+          "description": {
+            "zh": "魔物獵人烤肉"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "song_lyrics",
+      "group_description": {
+        "zh": "歌曲台詞"
+      },
+      "voice_list": [
+        {
+          "name": "dba3a4912cede736e1aee1694262299e",
+          "path": "song_lyrics/(哼歌)-新世紀福音戰士.mp3",
+          "description": {
+            "zh": "(哼歌) 新世紀福音戰士"
+          }
+        },
+        {
+          "name": "96451e70e7615272889dc2c39fe30cfb",
+          "path": "song_lyrics/(我要你愛)-愛情的小壞蛋.mp3",
+          "description": {
+            "zh": "(我要你愛) 你說你愛我自信中帶有瘋狂的火焰，時而羞怯的迷人臉龐，不 那不是我，我只是個愛情的騙徒，是愛情的小壞蛋"
+          }
+        },
+        {
+          "name": "86ec569f14b4ee11c93f67801d394b5d",
+          "path": "song_lyrics/(我還年輕)-給我一瓶酒再給我一支菸_說走就走我沒有時間.mp3",
+          "description": {
+            "zh": "(我還年輕) 給我一瓶酒再給我一支菸，說走就走我沒有時間"
+          }
+        },
+        {
+          "name": "c916370b0278d2adbb424ce2455ac392",
+          "path": "song_lyrics/mogu.mp3",
+          "description": {
+            "zh": "mogu"
+          }
+        },
+        {
+          "name": "a24cee257366bc92f8c9141565f42e9c",
+          "path": "song_lyrics/RickRoll.mp3",
+          "description": {
+            "zh": "(你猜猜看這是啥)"
+          }
+        },
+        {
+          "name": "1f6927ff3ca36a56b61abe179d267443",
+          "path": "song_lyrics/お嬢様-it's-time-to-go-to-bed.mp3",
+          "description": {
+            "zh": "お嬢様，it's time to go to bed，還在玩手機嗎? 呀咧呀咧，再不睡覺的話...我就要開始跳舞囉"
+          }
+        },
+        {
+          "name": "2337040079574443aa51acb5934ee2eb",
+          "path": "song_lyrics/我愛新增DLC_我愛CF來許願.mp3",
+          "description": {
+            "zh": "我愛新增DLC，我愛 Clip Studio，我愛 CF 來許願，每天畫畫我的愛~"
+          }
+        },
+        {
+          "name": "cbb9cc2ecf14868ba3abff48725af254",
+          "path": "song_lyrics/我愛玖玖巴老師.mp3",
+          "description": {
+            "zh": "我愛玖玖巴老師"
+          }
+        },
+        {
+          "name": "f824134fd1c9787ebb01bc788e02bc26",
+          "path": "song_lyrics/玖玖巴玖巴玖巴虎視眈眈.mp3",
+          "description": {
+            "zh": "玖玖巴玖巴玖巴虎視眈眈"
+          }
+        }
+      ]
+    }
+  ]
+}

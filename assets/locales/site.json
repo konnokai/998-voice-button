@@ -1,0 +1,15 @@
+{
+  "title": "【玖玖巴按鈕】",
+  "description": "就只是個狐仙按鈕網站",
+  "keywords": "VTuber VoiceButton 玖玖巴 孤之界",
+  "url": "https://998-button.konnokai.me",
+  "social_image": "https://i.imgur.com/vOAsBZ3.png",
+  "twitter_user": "@Kon_no_kai",
+  "theme_color": "#f18465",
+  "footer": {
+    "author": "孤之界",
+    "author_link": "https://konnokai.me",
+    "repo_link": "https://github.com/konnokai/998-voice-button",
+    "content": "本站為愛好者作品，和玖玖巴沒有關聯，其餘資訊請查看\"關於\"頁面"
+  }
+}
