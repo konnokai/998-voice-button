@@ -173,6 +173,13 @@
     </ClientOnly>
 
     <div class="h-32" />
+
+    <div
+      class="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-20"
+      v-if="isPageLoading"
+    >
+      <VProgressCircular indeterminate color="secondary" />
+    </div>
   </div>
 </template>
 
@@ -180,13 +187,14 @@
 import { VSonner, toast } from 'vuetify-sonner';
 import sounds from '~/assets/voices.json';
 import { useGoTo } from 'vuetify';
-import { VTabs } from 'vuetify/components';
 
 const route = useRoute();
 
 const goTo = useGoTo();
 
 type T_SoundStructure = typeof sounds;
+
+const isPageLoading = ref(true);
 
 const search = ref('');
 
@@ -359,6 +367,9 @@ onMounted(() => {
   expansionPanelController.value = sounds.groups.map(
     (group) => group.group_name
   );
+  nextTick(() => {
+    isPageLoading.value = false;
+  });
 
   if (!navigator.clipboard) {
     hasClipboard.value = false;

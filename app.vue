@@ -6,13 +6,21 @@
       </template>
       <VAppBarTitle>
         <div class="flex items-center">
-          <NuxtLink class="font-bold" to="/">玖玖巴音效版</NuxtLink>
+          <NuxtLink class="font-bold" to="/">【玖玖巴按鈕】</NuxtLink>
         </div>
       </VAppBarTitle>
     </VAppBar>
 
     <VNavigationDrawer v-model="isDrawerOpen" class="drawer">
       <VList class="flex-1">
+        <VListItem to="/">
+          <template #prepend>
+            <div class="mr-8">
+              <VIcon>mdi-home</VIcon>
+            </div>
+          </template>
+          <VListItemTitle>首頁</VListItemTitle>
+        </VListItem>
         <template v-for="(linkGroup, index) in links">
           <VListItem
             v-for="link in linkGroup"
@@ -30,7 +38,9 @@
                   </VIcon>
                 </template>
                 <template v-else>
-                  <div class="text-2xl">{{ link.icon?.emoji }}</div>
+                  <TwemojiParse class="text-xl">
+                    {{ link.icon?.emoji }}
+                  </TwemojiParse>
                 </template>
               </div>
             </template>
@@ -74,7 +84,13 @@
               <div>
                 本站為愛好者作品，和玖玖巴沒有關聯，其餘資訊請查看
                 <NuxtLink to="/about">關於</NuxtLink>
-                頁面
+                頁面,
+                <a
+                  href="https://github.com/7Red4/vtuber-button-template"
+                  target="_blank"
+                >
+                  原始碼
+                </a>
               </div>
             </div>
           </VFooter>

@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@vueuse/nuxt',
     'vuetify-nuxt-module',
+    'nuxt-twemoji'
   ],
   build: {
     transpile: ['vuetify-sonner']
@@ -31,10 +32,6 @@ export default defineNuxtConfig({
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:site', content: site.twitter_user },
         { name: "theme-color", content: site.theme_color }
-      ],
-      link: [
-        { rel: 'icon', type: 'image/png', href: "/icon.png" },
-        { rel: 'shortcut icon', type: 'image/png', href: "/icon.png" }
       ]
     },
   },
