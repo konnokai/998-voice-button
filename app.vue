@@ -84,9 +84,9 @@
               <div>
                 本站為愛好者作品，和玖玖巴沒有關聯，其餘資訊請查看
                 <NuxtLink to="/about">關於</NuxtLink>
-                頁面,
+                &
                 <a
-                  href="https://github.com/7Red4/vtuber-button-template"
+                  href="https://github.com/konnokai/998-voice-button"
                   target="_blank"
                 >
                   原始碼
