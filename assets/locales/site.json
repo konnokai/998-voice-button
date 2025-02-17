@@ -7,9 +7,30 @@
   "twitter_user": "@Kon_no_kai",
   "theme_color": "#f18465",
   "footer": {
-    "author": "孤之界",
-    "author_link": "https://konnokai.me",
+    "authors": [
+      {
+        "name": "孤之界",
+        "link": "https://konnokai.me"
+      },
+      {
+        "name": "紅柿",
+        "link": "https://twitter.com/7Red4"
+      },
+      {
+        "name": "九条夏目",
+        "link": "https://github.com/kujyonatsume"
+      }
+    ],
     "repo_link": "https://github.com/konnokai/998-voice-button",
-    "content": "本站為愛好者作品，和玖玖巴沒有關聯，其餘資訊請查看\"關於\"頁面"
+    "content": "本站為愛好者作品，和{0}沒有關聯，其餘資訊請查看{1} & {2}",
+    "content_params": [
+      { "name": "玖玖巴" },
+      { "name": "關於", "link": "/about", "target": "" },
+      {
+        "name": "原始碼",
+        "link": "https://github.com/konnokai/998-voice-button",
+        "target": "_blank"
+      }
+    ]
   }
 }
